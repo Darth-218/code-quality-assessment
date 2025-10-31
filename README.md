@@ -40,6 +40,8 @@
 
 ## Example Evaluation Results
 
+# Dependencies
+
 # Reproducibility 
 
 ## Data Scrapping
@@ -50,7 +52,7 @@
 
 ## Model Training
 
-# Dependencies
-
 # Deployment
+
+# Research References
 
