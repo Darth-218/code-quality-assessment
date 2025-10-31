@@ -50,7 +50,7 @@
 2. `analyzer_factory.py` sends code to the correct analyzer, e.g., `python_analyzer.py`.
 3. Analyzer output is sent to `metrics_extractor.py` for normalization and consistency.
 4. `smell_detector.py` extracts and categorizes code smells.
-5. `report_generator.py` generates structured JSON/CSV for dataset entry using all the previous steps.
+5. `report_generator.py` generates structured JSON/CSV for dataset entry using all the previous steps `/data/processed/analysis_result/{repo_name}_{file_name}.json`.
 
 # Feature Engineering
 
