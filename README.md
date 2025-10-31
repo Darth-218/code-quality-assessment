@@ -40,6 +40,16 @@
 
 ## Example Evaluation Results
 
+# Reproducibility 
+
+## Data Scrapping
+
+## Static Analysis
+
+## Feature Extraction
+
+## Model Training
+
 # Dependencies
 
 # Deployment
