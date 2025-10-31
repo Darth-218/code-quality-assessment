@@ -1,0 +1,4997 @@
+[
+  {
+    "full_name": "EbookFoundation/free-programming-books",
+    "clone_url": "https://github.com/EbookFoundation/free-programming-books.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "clone_url": "https://github.com/public-apis/public-apis.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "donnemartin/system-design-primer",
+    "clone_url": "https://github.com/donnemartin/system-design-primer.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "vinta/awesome-python",
+    "clone_url": "https://github.com/vinta/awesome-python.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "TheAlgorithms/Python",
+    "clone_url": "https://github.com/TheAlgorithms/Python.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "clone_url": "https://github.com/Significant-Gravitas/AutoGPT.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "clone_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/transformers",
+    "clone_url": "https://github.com/huggingface/transformers.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ytdl-org/youtube-dl",
+    "clone_url": "https://github.com/ytdl-org/youtube-dl.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "langflow-ai/langflow",
+    "clone_url": "https://github.com/langflow-ai/langflow.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "yt-dlp/yt-dlp",
+    "clone_url": "https://github.com/yt-dlp/yt-dlp.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "521xueweihan/HelloGitHub",
+    "clone_url": "https://github.com/521xueweihan/HelloGitHub.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "langchain-ai/langchain",
+    "clone_url": "https://github.com/langchain-ai/langchain.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deepseek-ai/DeepSeek-V3",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-V3.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "nvbn/thefuck",
+    "clone_url": "https://github.com/nvbn/thefuck.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pytorch/pytorch",
+    "clone_url": "https://github.com/pytorch/pytorch.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "comfyanonymous/ComfyUI",
+    "clone_url": "https://github.com/comfyanonymous/ComfyUI.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "fastapi/fastapi",
+    "clone_url": "https://github.com/fastapi/fastapi.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/whisper",
+    "clone_url": "https://github.com/openai/whisper.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "django/django",
+    "clone_url": "https://github.com/django/django.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "clone_url": "https://github.com/microsoft/markitdown.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "home-assistant/core",
+    "clone_url": "https://github.com/home-assistant/core.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "3b1b/manim",
+    "clone_url": "https://github.com/3b1b/manim.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "bregman-arie/devops-exercises",
+    "clone_url": "https://github.com/bregman-arie/devops-exercises.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "tensorflow/models",
+    "clone_url": "https://github.com/tensorflow/models.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "fighting41love/funNLP",
+    "clone_url": "https://github.com/fighting41love/funNLP.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "hacksider/Deep-Live-Cam",
+    "clone_url": "https://github.com/hacksider/Deep-Live-Cam.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "clone_url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "d2l-ai/d2l-zh",
+    "clone_url": "https://github.com/d2l-ai/d2l-zh.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "browser-use/browser-use",
+    "clone_url": "https://github.com/browser-use/browser-use.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "swisskyrepo/PayloadsAllTheThings",
+    "clone_url": "https://github.com/swisskyrepo/PayloadsAllTheThings.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "abi/screenshot-to-code",
+    "clone_url": "https://github.com/abi/screenshot-to-code.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pallets/flask",
+    "clone_url": "https://github.com/pallets/flask.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "josephmisiti/awesome-machine-learning",
+    "clone_url": "https://github.com/josephmisiti/awesome-machine-learning.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Alvin9999/new-pac",
+    "clone_url": "https://github.com/Alvin9999/new-pac.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "sherlock-project/sherlock",
+    "clone_url": "https://github.com/sherlock-project/sherlock.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "python/cpython",
+    "clone_url": "https://github.com/python/cpython.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "binary-husky/gpt_academic",
+    "clone_url": "https://github.com/binary-husky/gpt_academic.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ansible/ansible",
+    "clone_url": "https://github.com/ansible/ansible.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "xtekky/gpt4free",
+    "clone_url": "https://github.com/xtekky/gpt4free.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "OpenHands/OpenHands",
+    "clone_url": "https://github.com/OpenHands/OpenHands.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+    "clone_url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "scikit-learn/scikit-learn",
+    "clone_url": "https://github.com/scikit-learn/scikit-learn.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "keras-team/keras",
+    "clone_url": "https://github.com/keras-team/keras.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "PaddlePaddle/PaddleOCR",
+    "clone_url": "https://github.com/PaddlePaddle/PaddleOCR.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "vllm-project/vllm",
+    "clone_url": "https://github.com/vllm-project/vllm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "hiyouga/LLaMA-Factory",
+    "clone_url": "https://github.com/hiyouga/LLaMA-Factory.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "localstack/localstack",
+    "clone_url": "https://github.com/localstack/localstack.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openinterpreter/open-interpreter",
+    "clone_url": "https://github.com/openinterpreter/open-interpreter.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "FoundationAgents/MetaGPT",
+    "clone_url": "https://github.com/FoundationAgents/MetaGPT.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "meta-llama/llama",
+    "clone_url": "https://github.com/meta-llama/llama.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "scrapy/scrapy",
+    "clone_url": "https://github.com/scrapy/scrapy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "CorentinJ/Real-Time-Voice-Cloning",
+    "clone_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "commaai/openpilot",
+    "clone_url": "https://github.com/commaai/openpilot.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "zylon-ai/private-gpt",
+    "clone_url": "https://github.com/zylon-ai/private-gpt.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "soimort/you-get",
+    "clone_url": "https://github.com/soimort/you-get.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ultralytics/yolov5",
+    "clone_url": "https://github.com/ultralytics/yolov5.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ageitgey/face_recognition",
+    "clone_url": "https://github.com/ageitgey/face_recognition.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "unclecode/crawl4ai",
+    "clone_url": "https://github.com/unclecode/crawl4ai.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "AntonOsika/gpt-engineer",
+    "clone_url": "https://github.com/AntonOsika/gpt-engineer.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deepfakes/faceswap",
+    "clone_url": "https://github.com/deepfakes/faceswap.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Textualize/rich",
+    "clone_url": "https://github.com/Textualize/rich.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "OpenBB-finance/OpenBB",
+    "clone_url": "https://github.com/OpenBB-finance/OpenBB.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Z4nzu/hackingtool",
+    "clone_url": "https://github.com/Z4nzu/hackingtool.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "psf/requests",
+    "clone_url": "https://github.com/psf/requests.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "RVC-Boss/GPT-SoVITS",
+    "clone_url": "https://github.com/RVC-Boss/GPT-SoVITS.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Asabeneh/30-Days-Of-Python",
+    "clone_url": "https://github.com/Asabeneh/30-Days-Of-Python.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/autogen",
+    "clone_url": "https://github.com/microsoft/autogen.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "FoundationAgents/OpenManus",
+    "clone_url": "https://github.com/FoundationAgents/OpenManus.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "xai-org/grok-1",
+    "clone_url": "https://github.com/xai-org/grok-1.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "charlax/professional-programming",
+    "clone_url": "https://github.com/charlax/professional-programming.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pathwaycom/pathway",
+    "clone_url": "https://github.com/pathwaycom/pathway.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "karpathy/nanoGPT",
+    "clone_url": "https://github.com/karpathy/nanoGPT.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ultralytics/ultralytics",
+    "clone_url": "https://github.com/ultralytics/ultralytics.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "opendatalab/MinerU",
+    "clone_url": "https://github.com/opendatalab/MinerU.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "unslothai/unsloth",
+    "clone_url": "https://github.com/unslothai/unsloth.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "minimaxir/big-list-of-naughty-strings",
+    "clone_url": "https://github.com/minimaxir/big-list-of-naughty-strings.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "harry0703/MoneyPrinterTurbo",
+    "clone_url": "https://github.com/harry0703/MoneyPrinterTurbo.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pandas-dev/pandas",
+    "clone_url": "https://github.com/pandas-dev/pandas.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "odoo/odoo",
+    "clone_url": "https://github.com/odoo/odoo.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "lllyasviel/Fooocus",
+    "clone_url": "https://github.com/lllyasviel/Fooocus.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "oobabooga/text-generation-webui",
+    "clone_url": "https://github.com/oobabooga/text-generation-webui.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "run-llama/llama_index",
+    "clone_url": "https://github.com/run-llama/llama_index.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "freqtrade/freqtrade",
+    "clone_url": "https://github.com/freqtrade/freqtrade.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "coqui-ai/TTS",
+    "clone_url": "https://github.com/coqui-ai/TTS.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "apache/airflow",
+    "clone_url": "https://github.com/apache/airflow.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "docling-project/docling",
+    "clone_url": "https://github.com/docling-project/docling.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mem0ai/mem0",
+    "clone_url": "https://github.com/mem0ai/mem0.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "faif/python-patterns",
+    "clone_url": "https://github.com/faif/python-patterns.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "getsentry/sentry",
+    "clone_url": "https://github.com/getsentry/sentry.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "virattt/ai-hedge-fund",
+    "clone_url": "https://github.com/virattt/ai-hedge-fund.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "streamlit/streamlit",
+    "clone_url": "https://github.com/streamlit/streamlit.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Stability-AI/stablediffusion",
+    "clone_url": "https://github.com/Stability-AI/stablediffusion.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mingrammer/diagrams",
+    "clone_url": "https://github.com/mingrammer/diagrams.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "apachecn/ailearning",
+    "clone_url": "https://github.com/apachecn/ailearning.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "hpcaitech/ColossalAI",
+    "clone_url": "https://github.com/hpcaitech/ColossalAI.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "zai-org/ChatGLM-6B",
+    "clone_url": "https://github.com/zai-org/ChatGLM-6B.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "psf/black",
+    "clone_url": "https://github.com/psf/black.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mitmproxy/mitmproxy",
+    "clone_url": "https://github.com/mitmproxy/mitmproxy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deepspeedai/DeepSpeed",
+    "clone_url": "https://github.com/deepspeedai/DeepSpeed.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "chubin/cheat.sh",
+    "clone_url": "https://github.com/chubin/cheat.sh.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "gradio-app/gradio",
+    "clone_url": "https://github.com/gradio-app/gradio.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "crewAIInc/crewAI",
+    "clone_url": "https://github.com/crewAIInc/crewAI.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "yeongpin/cursor-free-vip",
+    "clone_url": "https://github.com/yeongpin/cursor-free-vip.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ray-project/ray",
+    "clone_url": "https://github.com/ray-project/ray.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "google-research/bert",
+    "clone_url": "https://github.com/google-research/bert.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ccxt/ccxt",
+    "clone_url": "https://github.com/ccxt/ccxt.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "zhayujie/chatgpt-on-wechat",
+    "clone_url": "https://github.com/zhayujie/chatgpt-on-wechat.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "clone_url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "hiroi-sora/Umi-OCR",
+    "clone_url": "https://github.com/hiroi-sora/Umi-OCR.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "lm-sys/FastChat",
+    "clone_url": "https://github.com/lm-sys/FastChat.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "QuivrHQ/quivr",
+    "clone_url": "https://github.com/QuivrHQ/quivr.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "NanmiCoder/MediaCrawler",
+    "clone_url": "https://github.com/NanmiCoder/MediaCrawler.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Zie619/n8n-workflows",
+    "clone_url": "https://github.com/Zie619/n8n-workflows.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Aider-AI/aider",
+    "clone_url": "https://github.com/Aider-AI/aider.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "2noise/ChatTTS",
+    "clone_url": "https://github.com/2noise/ChatTTS.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "gto76/python-cheatsheet",
+    "clone_url": "https://github.com/gto76/python-cheatsheet.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "LAION-AI/Open-Assistant",
+    "clone_url": "https://github.com/LAION-AI/Open-Assistant.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "TencentARC/GFPGAN",
+    "clone_url": "https://github.com/TencentARC/GFPGAN.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "0voice/interview_internal_reference",
+    "clone_url": "https://github.com/0voice/interview_internal_reference.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "httpie/cli",
+    "clone_url": "https://github.com/httpie/cli.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "satwikkansal/wtfpython",
+    "clone_url": "https://github.com/satwikkansal/wtfpython.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "babysor/MockingBird",
+    "clone_url": "https://github.com/babysor/MockingBird.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/gym",
+    "clone_url": "https://github.com/openai/gym.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mindsdb/mindsdb",
+    "clone_url": "https://github.com/mindsdb/mindsdb.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "chatchat-space/Langchain-Chatchat",
+    "clone_url": "https://github.com/chatchat-space/Langchain-Chatchat.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "XingangPan/DragGAN",
+    "clone_url": "https://github.com/XingangPan/DragGAN.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "hankcs/HanLP",
+    "clone_url": "https://github.com/hankcs/HanLP.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "roboflow/supervision",
+    "clone_url": "https://github.com/roboflow/supervision.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "sqlmapproject/sqlmap",
+    "clone_url": "https://github.com/sqlmapproject/sqlmap.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/pytorch-image-models",
+    "clone_url": "https://github.com/huggingface/pytorch-image-models.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ManimCommunity/manim",
+    "clone_url": "https://github.com/ManimCommunity/manim.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "myshell-ai/OpenVoice",
+    "clone_url": "https://github.com/myshell-ai/OpenVoice.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "agno-agi/agno",
+    "clone_url": "https://github.com/agno-agi/agno.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "karpathy/nanochat",
+    "clone_url": "https://github.com/karpathy/nanochat.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "fxsjy/jieba",
+    "clone_url": "https://github.com/fxsjy/jieba.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "chenfei-wu/TaskMatrix",
+    "clone_url": "https://github.com/chenfei-wu/TaskMatrix.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "geekcomputers/Python",
+    "clone_url": "https://github.com/geekcomputers/Python.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "testerSunshine/12306",
+    "clone_url": "https://github.com/testerSunshine/12306.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "python-poetry/poetry",
+    "clone_url": "https://github.com/python-poetry/poetry.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "paperless-ngx/paperless-ngx",
+    "clone_url": "https://github.com/paperless-ngx/paperless-ngx.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "chatanywhere/GPT_API_free",
+    "clone_url": "https://github.com/chatanywhere/GPT_API_free.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "jax-ml/jax",
+    "clone_url": "https://github.com/jax-ml/jax.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "shadowsocks/shadowsocks",
+    "clone_url": "https://github.com/shadowsocks/shadowsocks.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "facebookresearch/detectron2",
+    "clone_url": "https://github.com/facebookresearch/detectron2.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Pythagora-io/gpt-pilot",
+    "clone_url": "https://github.com/Pythagora-io/gpt-pilot.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "XX-net/XX-Net",
+    "clone_url": "https://github.com/XX-net/XX-Net.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "9001/copyparty",
+    "clone_url": "https://github.com/9001/copyparty.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "vnpy/vnpy",
+    "clone_url": "https://github.com/vnpy/vnpy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "lllyasviel/ControlNet",
+    "clone_url": "https://github.com/lllyasviel/ControlNet.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "xinntao/Real-ESRGAN",
+    "clone_url": "https://github.com/xinntao/Real-ESRGAN.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/qlib",
+    "clone_url": "https://github.com/microsoft/qlib.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "explosion/spaCy",
+    "clone_url": "https://github.com/explosion/spaCy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mouredev/Hello-Python",
+    "clone_url": "https://github.com/mouredev/Hello-Python.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "clone_url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "certbot/certbot",
+    "clone_url": "https://github.com/certbot/certbot.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "exo-explore/exo",
+    "clone_url": "https://github.com/exo-explore/exo.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "jingyaogong/minimind",
+    "clone_url": "https://github.com/jingyaogong/minimind.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "facebookresearch/fairseq",
+    "clone_url": "https://github.com/facebookresearch/fairseq.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "open-mmlab/mmdetection",
+    "clone_url": "https://github.com/open-mmlab/mmdetection.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "yunjey/pytorch-tutorial",
+    "clone_url": "https://github.com/yunjey/pytorch-tutorial.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Textualize/textual",
+    "clone_url": "https://github.com/Textualize/textual.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ocrmypdf/OCRmyPDF",
+    "clone_url": "https://github.com/ocrmypdf/OCRmyPDF.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "0xAX/linux-insides",
+    "clone_url": "https://github.com/0xAX/linux-insides.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/diffusers",
+    "clone_url": "https://github.com/huggingface/diffusers.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "khoj-ai/khoj",
+    "clone_url": "https://github.com/khoj-ai/khoj.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "donnemartin/interactive-coding-challenges",
+    "clone_url": "https://github.com/donnemartin/interactive-coding-challenges.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "numpy/numpy",
+    "clone_url": "https://github.com/numpy/numpy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "tqdm/tqdm",
+    "clone_url": "https://github.com/tqdm/tqdm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "OWASP/CheatSheetSeries",
+    "clone_url": "https://github.com/OWASP/CheatSheetSeries.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "BerriAI/litellm",
+    "clone_url": "https://github.com/BerriAI/litellm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "tinygrad/tinygrad",
+    "clone_url": "https://github.com/tinygrad/tinygrad.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "nicolargo/glances",
+    "clone_url": "https://github.com/nicolargo/glances.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Lightning-AI/pytorch-lightning",
+    "clone_url": "https://github.com/Lightning-AI/pytorch-lightning.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "s0md3v/roop",
+    "clone_url": "https://github.com/s0md3v/roop.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "tatsu-lab/stanford_alpaca",
+    "clone_url": "https://github.com/tatsu-lab/stanford_alpaca.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "trailofbits/algo",
+    "clone_url": "https://github.com/trailofbits/algo.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "iperov/DeepFaceLive",
+    "clone_url": "https://github.com/iperov/DeepFaceLive.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "PostHog/posthog",
+    "clone_url": "https://github.com/PostHog/posthog.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "frappe/erpnext",
+    "clone_url": "https://github.com/frappe/erpnext.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "stanfordnlp/dspy",
+    "clone_url": "https://github.com/stanfordnlp/dspy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "encode/django-rest-framework",
+    "clone_url": "https://github.com/encode/django-rest-framework.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "kovidgoyal/kitty",
+    "clone_url": "https://github.com/kovidgoyal/kitty.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "datalab-to/marker",
+    "clone_url": "https://github.com/datalab-to/marker.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Byaidu/PDFMathTranslate",
+    "clone_url": "https://github.com/Byaidu/PDFMathTranslate.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "StevenBlack/hosts",
+    "clone_url": "https://github.com/StevenBlack/hosts.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/openai-python",
+    "clone_url": "https://github.com/openai/openai-python.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "meta-llama/llama3",
+    "clone_url": "https://github.com/meta-llama/llama3.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+    "clone_url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/graphrag",
+    "clone_url": "https://github.com/microsoft/graphrag.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "eriklindernoren/ML-From-Scratch",
+    "clone_url": "https://github.com/eriklindernoren/ML-From-Scratch.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "jumpserver/jumpserver",
+    "clone_url": "https://github.com/jumpserver/jumpserver.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "clone_url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "donnemartin/data-science-ipython-notebooks",
+    "clone_url": "https://github.com/donnemartin/data-science-ipython-notebooks.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "python-telegram-bot/python-telegram-bot",
+    "clone_url": "https://github.com/python-telegram-bot/python-telegram-bot.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "dgtlmoon/changedetection.io",
+    "clone_url": "https://github.com/dgtlmoon/changedetection.io.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "JaidedAI/EasyOCR",
+    "clone_url": "https://github.com/JaidedAI/EasyOCR.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "acheong08/ChatGPT",
+    "clone_url": "https://github.com/acheong08/ChatGPT.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "google/python-fire",
+    "clone_url": "https://github.com/google/python-fire.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "chubin/wttr.in",
+    "clone_url": "https://github.com/chubin/wttr.in.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "getredash/redash",
+    "clone_url": "https://github.com/getredash/redash.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "svc-develop-team/so-vits-svc",
+    "clone_url": "https://github.com/svc-develop-team/so-vits-svc.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "hpcaitech/Open-Sora",
+    "clone_url": "https://github.com/hpcaitech/Open-Sora.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "OpenBMB/ChatDev",
+    "clone_url": "https://github.com/OpenBMB/ChatDev.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "stanford-oval/storm",
+    "clone_url": "https://github.com/stanford-oval/storm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Genesis-Embodied-AI/Genesis",
+    "clone_url": "https://github.com/Genesis-Embodied-AI/Genesis.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deezer/spleeter",
+    "clone_url": "https://github.com/deezer/spleeter.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "celery/celery",
+    "clone_url": "https://github.com/celery/celery.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "reflex-dev/reflex",
+    "clone_url": "https://github.com/reflex-dev/reflex.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/cascadia-code",
+    "clone_url": "https://github.com/microsoft/cascadia-code.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "d2l-ai/d2l-en",
+    "clone_url": "https://github.com/d2l-ai/d2l-en.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "521xueweihan/GitHub520",
+    "clone_url": "https://github.com/521xueweihan/GitHub520.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "locustio/locust",
+    "clone_url": "https://github.com/locustio/locust.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deepinsight/insightface",
+    "clone_url": "https://github.com/deepinsight/insightface.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "littlecodersh/ItChat",
+    "clone_url": "https://github.com/littlecodersh/ItChat.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Stability-AI/generative-models",
+    "clone_url": "https://github.com/Stability-AI/generative-models.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "KurtBestor/Hitomi-Downloader",
+    "clone_url": "https://github.com/KurtBestor/Hitomi-Downloader.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "facebookresearch/Detectron",
+    "clone_url": "https://github.com/facebookresearch/Detectron.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ycm-core/YouCompleteMe",
+    "clone_url": "https://github.com/ycm-core/YouCompleteMe.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "AtsushiSakai/PythonRobotics",
+    "clone_url": "https://github.com/AtsushiSakai/PythonRobotics.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Vision-CAIR/MiniGPT-4",
+    "clone_url": "https://github.com/Vision-CAIR/MiniGPT-4.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "clone_url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "facefusion/facefusion",
+    "clone_url": "https://github.com/facefusion/facefusion.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pydantic/pydantic",
+    "clone_url": "https://github.com/pydantic/pydantic.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/open-r1",
+    "clone_url": "https://github.com/huggingface/open-r1.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "matterport/Mask_RCNN",
+    "clone_url": "https://github.com/matterport/Mask_RCNN.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ArchiveBox/ArchiveBox",
+    "clone_url": "https://github.com/ArchiveBox/ArchiveBox.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "QwenLM/Qwen3",
+    "clone_url": "https://github.com/QwenLM/Qwen3.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pypa/pipenv",
+    "clone_url": "https://github.com/pypa/pipenv.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "squidfunk/mkdocs-material",
+    "clone_url": "https://github.com/squidfunk/mkdocs-material.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "keon/algorithms",
+    "clone_url": "https://github.com/keon/algorithms.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "clone_url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ungoogled-software/ungoogled-chromium",
+    "clone_url": "https://github.com/ungoogled-software/ungoogled-chromium.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Cinnamon/kotaemon",
+    "clone_url": "https://github.com/Cinnamon/kotaemon.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "black-forest-labs/flux",
+    "clone_url": "https://github.com/black-forest-labs/flux.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/JARVIS",
+    "clone_url": "https://github.com/microsoft/JARVIS.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "HumanSignal/labelImg",
+    "clone_url": "https://github.com/HumanSignal/labelImg.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/gpt-2",
+    "clone_url": "https://github.com/openai/gpt-2.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/BitNet",
+    "clone_url": "https://github.com/microsoft/BitNet.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "lucidrains/vit-pytorch",
+    "clone_url": "https://github.com/lucidrains/vit-pytorch.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "cookiecutter/cookiecutter",
+    "clone_url": "https://github.com/cookiecutter/cookiecutter.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "plotly/dash",
+    "clone_url": "https://github.com/plotly/dash.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "clone_url": "https://github.com/TauricResearch/TradingAgents.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "assafelovic/gpt-researcher",
+    "clone_url": "https://github.com/assafelovic/gpt-researcher.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "MetaCubeX/mihomo",
+    "clone_url": "https://github.com/MetaCubeX/mihomo.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "fishaudio/fish-speech",
+    "clone_url": "https://github.com/fishaudio/fish-speech.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "haotian-liu/LLaVA",
+    "clone_url": "https://github.com/haotian-liu/LLaVA.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "srbhr/Resume-Matcher",
+    "clone_url": "https://github.com/srbhr/Resume-Matcher.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/smolagents",
+    "clone_url": "https://github.com/huggingface/smolagents.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "zulip/zulip",
+    "clone_url": "https://github.com/zulip/zulip.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pytorch/examples",
+    "clone_url": "https://github.com/pytorch/examples.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "wangzheng0822/algo",
+    "clone_url": "https://github.com/wangzheng0822/algo.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "pyg-team/pytorch_geometric",
+    "clone_url": "https://github.com/pyg-team/pytorch_geometric.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Delgan/loguru",
+    "clone_url": "https://github.com/Delgan/loguru.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "sebastianruder/NLP-progress",
+    "clone_url": "https://github.com/sebastianruder/NLP-progress.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "jhao104/proxy_pool",
+    "clone_url": "https://github.com/jhao104/proxy_pool.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "karpathy/minGPT",
+    "clone_url": "https://github.com/karpathy/minGPT.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "searxng/searxng",
+    "clone_url": "https://github.com/searxng/searxng.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mlflow/mlflow",
+    "clone_url": "https://github.com/mlflow/mlflow.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "kovidgoyal/calibre",
+    "clone_url": "https://github.com/kovidgoyal/calibre.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "spotDL/spotify-downloader",
+    "clone_url": "https://github.com/spotDL/spotify-downloader.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "sinaptik-ai/pandas-ai",
+    "clone_url": "https://github.com/sinaptik-ai/pandas-ai.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "timqian/chinese-independent-blogs",
+    "clone_url": "https://github.com/timqian/chinese-independent-blogs.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "tornadoweb/tornado",
+    "clone_url": "https://github.com/tornadoweb/tornado.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Anjok07/ultimatevocalremovergui",
+    "clone_url": "https://github.com/Anjok07/ultimatevocalremovergui.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deepseek-ai/DeepSeek-Coder",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-Coder.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Fosowl/agenticSeek",
+    "clone_url": "https://github.com/Fosowl/agenticSeek.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "HKUDS/LightRAG",
+    "clone_url": "https://github.com/HKUDS/LightRAG.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Sanster/IOPaint",
+    "clone_url": "https://github.com/Sanster/IOPaint.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "saleor/saleor",
+    "clone_url": "https://github.com/saleor/saleor.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "OpenBMB/MiniCPM-V",
+    "clone_url": "https://github.com/OpenBMB/MiniCPM-V.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Vonng/ddia",
+    "clone_url": "https://github.com/Vonng/ddia.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "PromtEngineer/localGPT",
+    "clone_url": "https://github.com/PromtEngineer/localGPT.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "yoheinakajima/babyagi",
+    "clone_url": "https://github.com/yoheinakajima/babyagi.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "matplotlib/matplotlib",
+    "clone_url": "https://github.com/matplotlib/matplotlib.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "magic-wormhole/magic-wormhole",
+    "clone_url": "https://github.com/magic-wormhole/magic-wormhole.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "microsoft/unilm",
+    "clone_url": "https://github.com/microsoft/unilm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "jina-ai/serve",
+    "clone_url": "https://github.com/jina-ai/serve.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ScrapeGraphAI/Scrapegraph-ai",
+    "clone_url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "chriskiehl/Gooey",
+    "clone_url": "https://github.com/chriskiehl/Gooey.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mlc-ai/mlc-llm",
+    "clone_url": "https://github.com/mlc-ai/mlc-llm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "vanna-ai/vanna",
+    "clone_url": "https://github.com/vanna-ai/vanna.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/chatgpt-retrieval-plugin",
+    "clone_url": "https://github.com/openai/chatgpt-retrieval-plugin.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mkdocs/mkdocs",
+    "clone_url": "https://github.com/mkdocs/mkdocs.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "recommenders-team/recommenders",
+    "clone_url": "https://github.com/recommenders-team/recommenders.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "serengil/deepface",
+    "clone_url": "https://github.com/serengil/deepface.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "danielgatis/rembg",
+    "clone_url": "https://github.com/danielgatis/rembg.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "XiaoMi/ha_xiaomi_home",
+    "clone_url": "https://github.com/XiaoMi/ha_xiaomi_home.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "RasaHQ/rasa",
+    "clone_url": "https://github.com/RasaHQ/rasa.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/datasets",
+    "clone_url": "https://github.com/huggingface/datasets.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "wistbean/learn_python3_spider",
+    "clone_url": "https://github.com/wistbean/learn_python3_spider.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "PrefectHQ/prefect",
+    "clone_url": "https://github.com/PrefectHQ/prefect.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/swarm",
+    "clone_url": "https://github.com/openai/swarm.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "LiLittleCat/awesome-free-chatgpt",
+    "clone_url": "https://github.com/LiLittleCat/awesome-free-chatgpt.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "langchain-ai/langgraph",
+    "clone_url": "https://github.com/langchain-ai/langgraph.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "subframe7536/maple-font",
+    "clone_url": "https://github.com/subframe7536/maple-font.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Dao-AILab/flash-attention",
+    "clone_url": "https://github.com/Dao-AILab/flash-attention.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "bee-san/Ciphey",
+    "clone_url": "https://github.com/bee-san/Ciphey.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Zeyi-Lin/HivisionIDPhotos",
+    "clone_url": "https://github.com/Zeyi-Lin/HivisionIDPhotos.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/peft",
+    "clone_url": "https://github.com/huggingface/peft.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "python/mypy",
+    "clone_url": "https://github.com/python/mypy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "airbytehq/airbyte",
+    "clone_url": "https://github.com/airbytehq/airbyte.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "onnx/onnx",
+    "clone_url": "https://github.com/onnx/onnx.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "jlowin/fastmcp",
+    "clone_url": "https://github.com/jlowin/fastmcp.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "wagtail/wagtail",
+    "clone_url": "https://github.com/wagtail/wagtail.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "modelcontextprotocol/python-sdk",
+    "clone_url": "https://github.com/modelcontextprotocol/python-sdk.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "facebook/prophet",
+    "clone_url": "https://github.com/facebook/prophet.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "magenta/magenta",
+    "clone_url": "https://github.com/magenta/magenta.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ranaroussi/yfinance",
+    "clone_url": "https://github.com/ranaroussi/yfinance.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "QwenLM/Qwen",
+    "clone_url": "https://github.com/QwenLM/Qwen.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "nginx-proxy/nginx-proxy",
+    "clone_url": "https://github.com/nginx-proxy/nginx-proxy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Guovin/iptv-api",
+    "clone_url": "https://github.com/Guovin/iptv-api.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "getzep/graphiti",
+    "clone_url": "https://github.com/getzep/graphiti.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "sgl-project/sglang",
+    "clone_url": "https://github.com/sgl-project/sglang.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "wshobson/agents",
+    "clone_url": "https://github.com/wshobson/agents.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "stitionai/devika",
+    "clone_url": "https://github.com/stitionai/devika.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Jack-Cherish/python-spider",
+    "clone_url": "https://github.com/Jack-Cherish/python-spider.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "mementum/backtrader",
+    "clone_url": "https://github.com/mementum/backtrader.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "graphdeco-inria/gaussian-splatting",
+    "clone_url": "https://github.com/graphdeco-inria/gaussian-splatting.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "quantopian/zipline",
+    "clone_url": "https://github.com/quantopian/zipline.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "kaixindelele/ChatPaper",
+    "clone_url": "https://github.com/kaixindelele/ChatPaper.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "w-okada/voice-changer",
+    "clone_url": "https://github.com/w-okada/voice-changer.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "openai/gpt-oss",
+    "clone_url": "https://github.com/openai/gpt-oss.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "letta-ai/letta",
+    "clone_url": "https://github.com/letta-ai/letta.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "ymcui/Chinese-LLaMA-Alpaca",
+    "clone_url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "rsms/inter",
+    "clone_url": "https://github.com/rsms/inter.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "netbox-community/netbox",
+    "clone_url": "https://github.com/netbox-community/netbox.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "deepseek-ai/DeepSeek-OCR",
+    "clone_url": "https://github.com/deepseek-ai/DeepSeek-OCR.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "huggingface/lerobot",
+    "clone_url": "https://github.com/huggingface/lerobot.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "joke2k/faker",
+    "clone_url": "https://github.com/joke2k/faker.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Avaiga/taipy",
+    "clone_url": "https://github.com/Avaiga/taipy.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "SYSTRAN/faster-whisper",
+    "clone_url": "https://github.com/SYSTRAN/faster-whisper.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "1Panel-dev/MaxKB",
+    "clone_url": "https://github.com/1Panel-dev/MaxKB.git",
+    "language": "Python"
+  },
+  {
+    "full_name": "Snailclimb/JavaGuide",
+    "clone_url": "https://github.com/Snailclimb/JavaGuide.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "krahets/hello-algo",
+    "clone_url": "https://github.com/krahets/hello-algo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "clone_url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "iluwatar/java-design-patterns",
+    "clone_url": "https://github.com/iluwatar/java-design-patterns.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "macrozheng/mall",
+    "clone_url": "https://github.com/macrozheng/mall.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "spring-projects/spring-boot",
+    "clone_url": "https://github.com/spring-projects/spring-boot.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "doocs/advanced-java",
+    "clone_url": "https://github.com/doocs/advanced-java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "MisterBooo/LeetCodeAnimation",
+    "clone_url": "https://github.com/MisterBooo/LeetCodeAnimation.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "elastic/elasticsearch",
+    "clone_url": "https://github.com/elastic/elasticsearch.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Stirling-Tools/Stirling-PDF",
+    "clone_url": "https://github.com/Stirling-Tools/Stirling-PDF.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "kdn251/interviews",
+    "clone_url": "https://github.com/kdn251/interviews.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "TheAlgorithms/Java",
+    "clone_url": "https://github.com/TheAlgorithms/Java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "NationalSecurityAgency/ghidra",
+    "clone_url": "https://github.com/NationalSecurityAgency/ghidra.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "spring-projects/spring-framework",
+    "clone_url": "https://github.com/spring-projects/spring-framework.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "google/guava",
+    "clone_url": "https://github.com/google/guava.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ReactiveX/RxJava",
+    "clone_url": "https://github.com/ReactiveX/RxJava.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "termux/termux-app",
+    "clone_url": "https://github.com/termux/termux-app.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dbeaver/dbeaver",
+    "clone_url": "https://github.com/dbeaver/dbeaver.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "skylot/jadx",
+    "clone_url": "https://github.com/skylot/jadx.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jeecgboot/JeecgBoot",
+    "clone_url": "https://github.com/jeecgboot/JeecgBoot.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/dubbo",
+    "clone_url": "https://github.com/apache/dubbo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "PhilJay/MPAndroidChart",
+    "clone_url": "https://github.com/PhilJay/MPAndroidChart.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "eugenp/tutorials",
+    "clone_url": "https://github.com/eugenp/tutorials.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "halo-dev/halo",
+    "clone_url": "https://github.com/halo-dev/halo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/arthas",
+    "clone_url": "https://github.com/alibaba/arthas.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "geekxh/hello-algorithm",
+    "clone_url": "https://github.com/geekxh/hello-algorithm.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "airbnb/lottie-android",
+    "clone_url": "https://github.com/airbnb/lottie-android.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "TeamNewPipe/NewPipe",
+    "clone_url": "https://github.com/TeamNewPipe/NewPipe.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "doocs/leetcode",
+    "clone_url": "https://github.com/doocs/leetcode.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "bumptech/glide",
+    "clone_url": "https://github.com/bumptech/glide.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "netty/netty",
+    "clone_url": "https://github.com/netty/netty.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "xkcoding/spring-boot-demo",
+    "clone_url": "https://github.com/xkcoding/spring-boot-demo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "YunaiV/ruoyi-vue-pro",
+    "clone_url": "https://github.com/YunaiV/ruoyi-vue-pro.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/easyexcel",
+    "clone_url": "https://github.com/alibaba/easyexcel.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "zxing/zxing",
+    "clone_url": "https://github.com/zxing/zxing.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Blankj/AndroidUtilCode",
+    "clone_url": "https://github.com/Blankj/AndroidUtilCode.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "SeleniumHQ/selenium",
+    "clone_url": "https://github.com/SeleniumHQ/selenium.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/nacos",
+    "clone_url": "https://github.com/alibaba/nacos.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "binarywang/WxJava",
+    "clone_url": "https://github.com/binarywang/WxJava.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/kafka",
+    "clone_url": "https://github.com/apache/kafka.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "keycloak/keycloak",
+    "clone_url": "https://github.com/keycloak/keycloak.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ityouknow/spring-boot-examples",
+    "clone_url": "https://github.com/ityouknow/spring-boot-examples.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "chinabugotech/hutool",
+    "clone_url": "https://github.com/chinabugotech/hutool.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "conductor-oss/conductor",
+    "clone_url": "https://github.com/conductor-oss/conductor.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apolloconfig/apollo",
+    "clone_url": "https://github.com/apolloconfig/apollo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "xuxueli/xxl-job",
+    "clone_url": "https://github.com/xuxueli/xxl-job.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/canal",
+    "clone_url": "https://github.com/alibaba/canal.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "wuyouzhuguli/SpringAll",
+    "clone_url": "https://github.com/wuyouzhuguli/SpringAll.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/spring-cloud-alibaba",
+    "clone_url": "https://github.com/alibaba/spring-cloud-alibaba.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/druid",
+    "clone_url": "https://github.com/alibaba/druid.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "lenve/vhr",
+    "clone_url": "https://github.com/lenve/vhr.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "DrKLO/Telegram",
+    "clone_url": "https://github.com/DrKLO/Telegram.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ashishps1/awesome-system-design-resources",
+    "clone_url": "https://github.com/ashishps1/awesome-system-design-resources.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "crossoverJie/JCSprout",
+    "clone_url": "https://github.com/crossoverJie/JCSprout.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "qiurunze123/miaosha",
+    "clone_url": "https://github.com/qiurunze123/miaosha.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/incubator-seata",
+    "clone_url": "https://github.com/apache/incubator-seata.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/fastjson",
+    "clone_url": "https://github.com/alibaba/fastjson.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Anuken/Mindustry",
+    "clone_url": "https://github.com/Anuken/Mindustry.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "hollischuang/toBeTopJavaer",
+    "clone_url": "https://github.com/hollischuang/toBeTopJavaer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JakeWharton/butterknife",
+    "clone_url": "https://github.com/JakeWharton/butterknife.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/flink",
+    "clone_url": "https://github.com/apache/flink.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "scwang90/SmartRefreshLayout",
+    "clone_url": "https://github.com/scwang90/SmartRefreshLayout.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "OpenAPITools/openapi-generator",
+    "clone_url": "https://github.com/OpenAPITools/openapi-generator.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "yuliskov/SmartTube",
+    "clone_url": "https://github.com/yuliskov/SmartTube.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "proxyee-down-org/proxyee-down",
+    "clone_url": "https://github.com/proxyee-down-org/proxyee-down.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "greenrobot/EventBus",
+    "clone_url": "https://github.com/greenrobot/EventBus.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "bazelbuild/bazel",
+    "clone_url": "https://github.com/bazelbuild/bazel.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jenkinsci/jenkins",
+    "clone_url": "https://github.com/jenkinsci/jenkins.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/skywalking",
+    "clone_url": "https://github.com/apache/skywalking.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "CodePhiliaX/Chat2DB",
+    "clone_url": "https://github.com/CodePhiliaX/Chat2DB.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "libgdx/libgdx",
+    "clone_url": "https://github.com/libgdx/libgdx.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Netflix/Hystrix",
+    "clone_url": "https://github.com/Netflix/Hystrix.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "google/gson",
+    "clone_url": "https://github.com/google/gson.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "redisson/redisson",
+    "clone_url": "https://github.com/redisson/redisson.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "iBotPeaches/Apktool",
+    "clone_url": "https://github.com/iBotPeaches/Apktool.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "doocs/source-code-hunter",
+    "clone_url": "https://github.com/doocs/source-code-hunter.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/Sentinel",
+    "clone_url": "https://github.com/alibaba/Sentinel.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+    "clone_url": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "kestra-io/kestra",
+    "clone_url": "https://github.com/kestra-io/kestra.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dataease/dataease",
+    "clone_url": "https://github.com/dataease/dataease.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/rocketmq",
+    "clone_url": "https://github.com/apache/rocketmq.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "openjdk/jdk",
+    "clone_url": "https://github.com/openjdk/jdk.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "LSPosed/LSPosed",
+    "clone_url": "https://github.com/LSPosed/LSPosed.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "google/ExoPlayer",
+    "clone_url": "https://github.com/google/ExoPlayer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "elunez/eladmin",
+    "clone_url": "https://github.com/elunez/eladmin.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "oracle/graal",
+    "clone_url": "https://github.com/oracle/graal.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "CarGuo/GSYVideoPlayer",
+    "clone_url": "https://github.com/CarGuo/GSYVideoPlayer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "clone_url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "brettwooldridge/HikariCP",
+    "clone_url": "https://github.com/brettwooldridge/HikariCP.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/shardingsphere",
+    "clone_url": "https://github.com/apache/shardingsphere.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "xiaojieonly/Ehviewer_CN_SXJ",
+    "clone_url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "didi/DoKit",
+    "clone_url": "https://github.com/didi/DoKit.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "thingsboard/thingsboard",
+    "clone_url": "https://github.com/thingsboard/thingsboard.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "mybatis/mybatis-3",
+    "clone_url": "https://github.com/mybatis/mybatis-3.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ReactiveX/RxAndroid",
+    "clone_url": "https://github.com/ReactiveX/RxAndroid.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "linlinjava/litemall",
+    "clone_url": "https://github.com/linlinjava/litemall.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "yudaocode/SpringBoot-Labs",
+    "clone_url": "https://github.com/yudaocode/SpringBoot-Labs.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ashishps1/awesome-low-level-design",
+    "clone_url": "https://github.com/ashishps1/awesome-low-level-design.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JetBrains/intellij-community",
+    "clone_url": "https://github.com/JetBrains/intellij-community.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dianping/cat",
+    "clone_url": "https://github.com/dianping/cat.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Baseflow/PhotoView",
+    "clone_url": "https://github.com/Baseflow/PhotoView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "antlr/antlr4",
+    "clone_url": "https://github.com/antlr/antlr4.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "lionsoul2014/ip2region",
+    "clone_url": "https://github.com/lionsoul2014/ip2region.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "williamfiset/Algorithms",
+    "clone_url": "https://github.com/williamfiset/Algorithms.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dromara/Sa-Token",
+    "clone_url": "https://github.com/dromara/Sa-Token.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Tencent/APIJSON",
+    "clone_url": "https://github.com/Tencent/APIJSON.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "LMAX-Exchange/disruptor",
+    "clone_url": "https://github.com/LMAX-Exchange/disruptor.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "YunaiV/yudao-cloud",
+    "clone_url": "https://github.com/YunaiV/yudao-cloud.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "forezp/SpringCloudLearning",
+    "clone_url": "https://github.com/forezp/SpringCloudLearning.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Tencent/tinker",
+    "clone_url": "https://github.com/Tencent/tinker.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "openzipkin/zipkin",
+    "clone_url": "https://github.com/openzipkin/zipkin.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "infinilabs/analysis-ik",
+    "clone_url": "https://github.com/infinilabs/analysis-ik.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "justauth/JustAuth",
+    "clone_url": "https://github.com/justauth/JustAuth.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ben-manes/caffeine",
+    "clone_url": "https://github.com/ben-manes/caffeine.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "baomidou/mybatis-plus",
+    "clone_url": "https://github.com/baomidou/mybatis-plus.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "facebook/fresco",
+    "clone_url": "https://github.com/facebook/fresco.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "nostra13/Android-Universal-Image-Loader",
+    "clone_url": "https://github.com/nostra13/Android-Universal-Image-Loader.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "material-components/material-components-android",
+    "clone_url": "https://github.com/material-components/material-components-android.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/DataX",
+    "clone_url": "https://github.com/alibaba/DataX.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "winterbe/java8-tutorial",
+    "clone_url": "https://github.com/winterbe/java8-tutorial.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "heibaiying/BigData-Notes",
+    "clone_url": "https://github.com/heibaiying/BigData-Notes.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "shuzheng/zheng",
+    "clone_url": "https://github.com/shuzheng/zheng.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "gyoogle/tech-interview-for-developer",
+    "clone_url": "https://github.com/gyoogle/tech-interview-for-developer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Grasscutters/Grasscutter",
+    "clone_url": "https://github.com/Grasscutters/Grasscutter.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JeffLi1993/springboot-learning-example",
+    "clone_url": "https://github.com/JeffLi1993/springboot-learning-example.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "prestodb/presto",
+    "clone_url": "https://github.com/prestodb/presto.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "questdb/questdb",
+    "clone_url": "https://github.com/questdb/questdb.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "android-hacker/VirtualXposed",
+    "clone_url": "https://github.com/android-hacker/VirtualXposed.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dyc87112/SpringBoot-Learning",
+    "clone_url": "https://github.com/dyc87112/SpringBoot-Learning.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "android10/Android-CleanArchitecture",
+    "clone_url": "https://github.com/android10/Android-CleanArchitecture.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/hadoop",
+    "clone_url": "https://github.com/apache/hadoop.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "neo4j/neo4j",
+    "clone_url": "https://github.com/neo4j/neo4j.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "mockito/mockito",
+    "clone_url": "https://github.com/mockito/mockito.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Konloch/bytecode-viewer",
+    "clone_url": "https://github.com/Konloch/bytecode-viewer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "quarkusio/quarkus",
+    "clone_url": "https://github.com/quarkusio/quarkus.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "zhisheng17/flink-learning",
+    "clone_url": "https://github.com/zhisheng17/flink-learning.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/pulsar",
+    "clone_url": "https://github.com/apache/pulsar.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "java-decompiler/jd-gui",
+    "clone_url": "https://github.com/java-decompiler/jd-gui.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "elastic/logstash",
+    "clone_url": "https://github.com/elastic/logstash.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "supertokens/supertokens-core",
+    "clone_url": "https://github.com/supertokens/supertokens-core.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "eclipse-vertx/vert.x",
+    "clone_url": "https://github.com/eclipse-vertx/vert.x.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/doris",
+    "clone_url": "https://github.com/apache/doris.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "hdodenhof/CircleImageView",
+    "clone_url": "https://github.com/hdodenhof/CircleImageView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Tencent/QMUI_Android",
+    "clone_url": "https://github.com/Tencent/QMUI_Android.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/ARouter",
+    "clone_url": "https://github.com/alibaba/ARouter.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "arduino/Arduino",
+    "clone_url": "https://github.com/arduino/Arduino.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "theonedev/onedev",
+    "clone_url": "https://github.com/theonedev/onedev.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "zaproxy/zaproxy",
+    "clone_url": "https://github.com/zaproxy/zaproxy.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "deeplearning4j/deeplearning4j",
+    "clone_url": "https://github.com/deeplearning4j/deeplearning4j.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "GoogleContainerTools/jib",
+    "clone_url": "https://github.com/GoogleContainerTools/jib.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Netflix/zuul",
+    "clone_url": "https://github.com/Netflix/zuul.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/dolphinscheduler",
+    "clone_url": "https://github.com/apache/dolphinscheduler.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "orhanobut/logger",
+    "clone_url": "https://github.com/orhanobut/logger.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "cryptomator/cryptomator",
+    "clone_url": "https://github.com/cryptomator/cryptomator.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/druid",
+    "clone_url": "https://github.com/apache/druid.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "DuGuQiuBai/Java",
+    "clone_url": "https://github.com/DuGuQiuBai/Java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ashishps1/awesome-leetcode-resources",
+    "clone_url": "https://github.com/ashishps1/awesome-leetcode-resources.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "lgvalle/Material-Animations",
+    "clone_url": "https://github.com/lgvalle/Material-Animations.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "sqshq/piggymetrics",
+    "clone_url": "https://github.com/sqshq/piggymetrics.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "seaswalker/spring-analysis",
+    "clone_url": "https://github.com/seaswalker/spring-analysis.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "pinpoint-apm/pinpoint",
+    "clone_url": "https://github.com/pinpoint-apm/pinpoint.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "languagetool-org/languagetool",
+    "clone_url": "https://github.com/languagetool-org/languagetool.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JessYanCoding/AndroidAutoSize",
+    "clone_url": "https://github.com/JessYanCoding/AndroidAutoSize.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "janishar/mit-deep-learning-book-pdf",
+    "clone_url": "https://github.com/janishar/mit-deep-learning-book-pdf.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Curzibn/Luban",
+    "clone_url": "https://github.com/Curzibn/Luban.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "LuckSiege/PictureSelector",
+    "clone_url": "https://github.com/LuckSiege/PictureSelector.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "tink-crypto/tink",
+    "clone_url": "https://github.com/tink-crypto/tink.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "kekingcn/kkFileView",
+    "clone_url": "https://github.com/kekingcn/kkFileView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Bigkoo/Android-PickerView",
+    "clone_url": "https://github.com/Bigkoo/Android-PickerView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "projectlombok/lombok",
+    "clone_url": "https://github.com/projectlombok/lombok.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "macrozheng/mall-learning",
+    "clone_url": "https://github.com/macrozheng/mall-learning.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "youth5201314/banner",
+    "clone_url": "https://github.com/youth5201314/banner.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "pxb1988/dex2jar",
+    "clone_url": "https://github.com/pxb1988/dex2jar.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Netflix/conductor",
+    "clone_url": "https://github.com/Netflix/conductor.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "codecentric/spring-boot-admin",
+    "clone_url": "https://github.com/codecentric/spring-boot-admin.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "facebook/stetho",
+    "clone_url": "https://github.com/facebook/stetho.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/COLA",
+    "clone_url": "https://github.com/alibaba/COLA.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "google/guice",
+    "clone_url": "https://github.com/google/guice.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "macrozheng/mall-swarm",
+    "clone_url": "https://github.com/macrozheng/mall-swarm.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/zookeeper",
+    "clone_url": "https://github.com/apache/zookeeper.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Netflix/eureka",
+    "clone_url": "https://github.com/Netflix/eureka.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "greenrobot/greenDAO",
+    "clone_url": "https://github.com/greenrobot/greenDAO.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "metersphere/metersphere",
+    "clone_url": "https://github.com/metersphere/metersphere.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "zhihu/Matisse",
+    "clone_url": "https://github.com/zhihu/Matisse.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "daimajia/AndroidViewAnimations",
+    "clone_url": "https://github.com/daimajia/AndroidViewAnimations.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "daimajia/AndroidSwipeLayout",
+    "clone_url": "https://github.com/daimajia/AndroidSwipeLayout.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "pagehelper/Mybatis-PageHelper",
+    "clone_url": "https://github.com/pagehelper/Mybatis-PageHelper.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "plantuml/plantuml",
+    "clone_url": "https://github.com/plantuml/plantuml.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "redis/jedis",
+    "clone_url": "https://github.com/redis/jedis.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "amitshekhariitbhu/android-interview-questions",
+    "clone_url": "https://github.com/amitshekhariitbhu/android-interview-questions.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "trinodb/trino",
+    "clone_url": "https://github.com/trinodb/trino.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Yalantis/uCrop",
+    "clone_url": "https://github.com/Yalantis/uCrop.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "debezium/debezium",
+    "clone_url": "https://github.com/debezium/debezium.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Team-xManager/xManager",
+    "clone_url": "https://github.com/Team-xManager/xManager.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Tencent/matrix",
+    "clone_url": "https://github.com/Tencent/matrix.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "grpc/grpc-java",
+    "clone_url": "https://github.com/grpc/grpc-java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Tencent/VasSonic",
+    "clone_url": "https://github.com/Tencent/VasSonic.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "xpipe-io/xpipe",
+    "clone_url": "https://github.com/xpipe-io/xpipe.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "opensearch-project/OpenSearch",
+    "clone_url": "https://github.com/opensearch-project/OpenSearch.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "frank-lam/fullstack-tutorial",
+    "clone_url": "https://github.com/frank-lam/fullstack-tutorial.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "code4craft/webmagic",
+    "clone_url": "https://github.com/code4craft/webmagic.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "PaperMC/Paper",
+    "clone_url": "https://github.com/PaperMC/Paper.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "OpenRefine/OpenRefine",
+    "clone_url": "https://github.com/OpenRefine/OpenRefine.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "provectus/kafka-ui",
+    "clone_url": "https://github.com/provectus/kafka-ui.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "realm/realm-java",
+    "clone_url": "https://github.com/realm/realm-java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "careercup/CtCI-6th-Edition",
+    "clone_url": "https://github.com/careercup/CtCI-6th-Edition.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "gyf-dev/ImmersionBar",
+    "clone_url": "https://github.com/gyf-dev/ImmersionBar.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "newbee-ltd/newbee-mall",
+    "clone_url": "https://github.com/newbee-ltd/newbee-mall.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "LawnchairLauncher/lawnchair",
+    "clone_url": "https://github.com/LawnchairLauncher/lawnchair.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "beemdevelopment/Aegis",
+    "clone_url": "https://github.com/beemdevelopment/Aegis.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "microg/GmsCore",
+    "clone_url": "https://github.com/microg/GmsCore.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jhy/jsoup",
+    "clone_url": "https://github.com/jhy/jsoup.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apereo/cas",
+    "clone_url": "https://github.com/apereo/cas.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "permissions-dispatcher/PermissionsDispatcher",
+    "clone_url": "https://github.com/permissions-dispatcher/PermissionsDispatcher.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "mission-peace/interview",
+    "clone_url": "https://github.com/mission-peace/interview.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "datahub-project/datahub",
+    "clone_url": "https://github.com/datahub-project/datahub.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "daniulive/SmarterStreaming",
+    "clone_url": "https://github.com/daniulive/SmarterStreaming.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "H07000223/FlycoTabLayout",
+    "clone_url": "https://github.com/H07000223/FlycoTabLayout.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "lingochamp/FileDownloader",
+    "clone_url": "https://github.com/lingochamp/FileDownloader.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jfeinstein10/SlidingMenu",
+    "clone_url": "https://github.com/jfeinstein10/SlidingMenu.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ssssssss-team/spider-flow",
+    "clone_url": "https://github.com/ssssssss-team/spider-flow.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "androidannotations/androidannotations",
+    "clone_url": "https://github.com/androidannotations/androidannotations.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apple/pkl",
+    "clone_url": "https://github.com/apple/pkl.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jwtk/jjwt",
+    "clone_url": "https://github.com/jwtk/jjwt.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "square/javapoet",
+    "clone_url": "https://github.com/square/javapoet.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "StarRocks/starrocks",
+    "clone_url": "https://github.com/StarRocks/starrocks.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "asLody/VirtualApp",
+    "clone_url": "https://github.com/asLody/VirtualApp.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "aosp-mirror/platform_frameworks_base",
+    "clone_url": "https://github.com/aosp-mirror/platform_frameworks_base.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/vlayout",
+    "clone_url": "https://github.com/alibaba/vlayout.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "TooTallNate/Java-WebSocket",
+    "clone_url": "https://github.com/TooTallNate/Java-WebSocket.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "clojure/clojure",
+    "clone_url": "https://github.com/clojure/clojure.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "android-async-http/android-async-http",
+    "clone_url": "https://github.com/android-async-http/android-async-http.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jd-opensource/joyagent-jdgenie",
+    "clone_url": "https://github.com/jd-opensource/joyagent-jdgenie.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "jeasonlzy/okhttp-OkGo",
+    "clone_url": "https://github.com/jeasonlzy/okhttp-OkGo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "google/auto",
+    "clone_url": "https://github.com/google/auto.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "lipangit/JiaoZiVideoPlayer",
+    "clone_url": "https://github.com/lipangit/JiaoZiVideoPlayer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "tbruyelle/RxPermissions",
+    "clone_url": "https://github.com/tbruyelle/RxPermissions.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "zfile-dev/zfile",
+    "clone_url": "https://github.com/zfile-dev/zfile.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Activiti/Activiti",
+    "clone_url": "https://github.com/Activiti/Activiti.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "resilience4j/resilience4j",
+    "clone_url": "https://github.com/resilience4j/resilience4j.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JessYanCoding/MVPArms",
+    "clone_url": "https://github.com/JessYanCoding/MVPArms.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "awsdocs/aws-doc-sdk-examples",
+    "clone_url": "https://github.com/awsdocs/aws-doc-sdk-examples.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "signalapp/Signal-Server",
+    "clone_url": "https://github.com/signalapp/Signal-Server.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JakeWharton/ViewPagerIndicator",
+    "clone_url": "https://github.com/JakeWharton/ViewPagerIndicator.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "SonarSource/sonarqube",
+    "clone_url": "https://github.com/SonarSource/sonarqube.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "stanfordnlp/CoreNLP",
+    "clone_url": "https://github.com/stanfordnlp/CoreNLP.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "wasabeef/glide-transformations",
+    "clone_url": "https://github.com/wasabeef/glide-transformations.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "googlesamples/easypermissions",
+    "clone_url": "https://github.com/googlesamples/easypermissions.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "paascloud/paascloud-master",
+    "clone_url": "https://github.com/paascloud/paascloud-master.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "uknownothingsnow/JsBridge",
+    "clone_url": "https://github.com/uknownothingsnow/JsBridge.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "hackware1993/MagicIndicator",
+    "clone_url": "https://github.com/hackware1993/MagicIndicator.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "xuchengsheng/spring-reading",
+    "clone_url": "https://github.com/xuchengsheng/spring-reading.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "HarlonWang/AVLoadingIndicatorView",
+    "clone_url": "https://github.com/HarlonWang/AVLoadingIndicatorView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "OpenFeign/feign",
+    "clone_url": "https://github.com/OpenFeign/feign.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "YoKeyword/Fragmentation",
+    "clone_url": "https://github.com/YoKeyword/Fragmentation.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "lihengming/spring-boot-api-project-seed",
+    "clone_url": "https://github.com/lihengming/spring-boot-api-project-seed.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "perwendel/spark",
+    "clone_url": "https://github.com/perwendel/spark.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "react-native-camera/react-native-camera",
+    "clone_url": "https://github.com/react-native-camera/react-native-camera.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ksoichiro/Android-ObservableScrollView",
+    "clone_url": "https://github.com/ksoichiro/Android-ObservableScrollView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "koral--/android-gif-drawable",
+    "clone_url": "https://github.com/koral--/android-gif-drawable.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "spinnaker/spinnaker",
+    "clone_url": "https://github.com/spinnaker/spinnaker.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "bilibili/DanmakuFlameMaster",
+    "clone_url": "https://github.com/bilibili/DanmakuFlameMaster.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "MyCATApache/Mycat-Server",
+    "clone_url": "https://github.com/MyCATApache/Mycat-Server.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "liaohuqiu/android-Ultra-Pull-To-Refresh",
+    "clone_url": "https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "umano/AndroidSlidingUpPanel",
+    "clone_url": "https://github.com/umano/AndroidSlidingUpPanel.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "langchain4j/langchain4j",
+    "clone_url": "https://github.com/langchain4j/langchain4j.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "crossoverJie/cim",
+    "clone_url": "https://github.com/crossoverJie/cim.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/cassandra",
+    "clone_url": "https://github.com/apache/cassandra.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "seven332/EhViewer",
+    "clone_url": "https://github.com/seven332/EhViewer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "pockethub/PocketHub",
+    "clone_url": "https://github.com/pockethub/PocketHub.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Justson/AgentWeb",
+    "clone_url": "https://github.com/Justson/AgentWeb.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "spring-projects/spring-security",
+    "clone_url": "https://github.com/spring-projects/spring-security.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "huanghaibin-dev/CalendarView",
+    "clone_url": "https://github.com/huanghaibin-dev/CalendarView.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "json-path/JsonPath",
+    "clone_url": "https://github.com/json-path/JsonPath.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "GcsSloop/AndroidNote",
+    "clone_url": "https://github.com/GcsSloop/AndroidNote.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "android/testing-samples",
+    "clone_url": "https://github.com/android/testing-samples.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "flyway/flyway",
+    "clone_url": "https://github.com/flyway/flyway.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "cats-oss/android-gpuimage",
+    "clone_url": "https://github.com/cats-oss/android-gpuimage.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/jmeter",
+    "clone_url": "https://github.com/apache/jmeter.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "didi/VirtualAPK",
+    "clone_url": "https://github.com/didi/VirtualAPK.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "navasmdc/MaterialDesignLibrary",
+    "clone_url": "https://github.com/navasmdc/MaterialDesignLibrary.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "KunMinX/Jetpack-MVVM-Best-Practice",
+    "clone_url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ZCShou/GoGoGo",
+    "clone_url": "https://github.com/ZCShou/GoGoGo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Freelander/Android_Data",
+    "clone_url": "https://github.com/Freelander/Android_Data.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/seatunnel",
+    "clone_url": "https://github.com/apache/seatunnel.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "flowable/flowable-engine",
+    "clone_url": "https://github.com/flowable/flowable-engine.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "java-native-access/jna",
+    "clone_url": "https://github.com/java-native-access/jna.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "nathanmarz/storm",
+    "clone_url": "https://github.com/nathanmarz/storm.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "laobie/StatusBarUtil",
+    "clone_url": "https://github.com/laobie/StatusBarUtil.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "checkstyle/checkstyle",
+    "clone_url": "https://github.com/checkstyle/checkstyle.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/shenyu",
+    "clone_url": "https://github.com/apache/shenyu.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "karatelabs/karate",
+    "clone_url": "https://github.com/karatelabs/karate.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Blankj/awesome-java-leetcode",
+    "clone_url": "https://github.com/Blankj/awesome-java-leetcode.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "chrisbanes/Android-PullToRefresh",
+    "clone_url": "https://github.com/chrisbanes/Android-PullToRefresh.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "ybq/Android-SpinKit",
+    "clone_url": "https://github.com/ybq/Android-SpinKit.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "shwenzhang/AndResGuard",
+    "clone_url": "https://github.com/shwenzhang/AndResGuard.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "react-native-image-picker/react-native-image-picker",
+    "clone_url": "https://github.com/react-native-image-picker/react-native-image-picker.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "amitshekhariitbhu/Android-Debug-Database",
+    "clone_url": "https://github.com/amitshekhariitbhu/Android-Debug-Database.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "chrisjenx/Calligraphy",
+    "clone_url": "https://github.com/chrisjenx/Calligraphy.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "frohoff/ysoserial",
+    "clone_url": "https://github.com/frohoff/ysoserial.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "airbnb/epoxy",
+    "clone_url": "https://github.com/airbnb/epoxy.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dropwizard/dropwizard",
+    "clone_url": "https://github.com/dropwizard/dropwizard.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "facebook/buck",
+    "clone_url": "https://github.com/facebook/buck.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "junit-team/junit4",
+    "clone_url": "https://github.com/junit-team/junit4.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "LSPosed/LSPatch",
+    "clone_url": "https://github.com/LSPosed/LSPatch.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "google/tsunami-security-scanner",
+    "clone_url": "https://github.com/google/tsunami-security-scanner.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "PojavLauncherTeam/PojavLauncher",
+    "clone_url": "https://github.com/PojavLauncherTeam/PojavLauncher.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "testcontainers/testcontainers-java",
+    "clone_url": "https://github.com/testcontainers/testcontainers-java.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "hs-web/hsweb-framework",
+    "clone_url": "https://github.com/hs-web/hsweb-framework.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "roughike/BottomBar",
+    "clone_url": "https://github.com/roughike/BottomBar.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "DImuthuUpe/AndroidPdfViewer",
+    "clone_url": "https://github.com/DImuthuUpe/AndroidPdfViewer.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/beam",
+    "clone_url": "https://github.com/apache/beam.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "wildfirechat/im-server",
+    "clone_url": "https://github.com/wildfirechat/im-server.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "HMCL-dev/HMCL",
+    "clone_url": "https://github.com/HMCL-dev/HMCL.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "cabaletta/baritone",
+    "clone_url": "https://github.com/cabaletta/baritone.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "aritraroy/UltimateAndroidReference",
+    "clone_url": "https://github.com/aritraroy/UltimateAndroidReference.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/shardingsphere-elasticjob",
+    "clone_url": "https://github.com/apache/shardingsphere-elasticjob.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "pentaho/pentaho-kettle",
+    "clone_url": "https://github.com/pentaho/pentaho-kettle.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "aeron-io/aeron",
+    "clone_url": "https://github.com/aeron-io/aeron.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/transmittable-thread-local",
+    "clone_url": "https://github.com/alibaba/transmittable-thread-local.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "bytedeco/javacv",
+    "clone_url": "https://github.com/bytedeco/javacv.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/iceberg",
+    "clone_url": "https://github.com/apache/iceberg.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/atlas",
+    "clone_url": "https://github.com/alibaba/atlas.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "alibaba/otter",
+    "clone_url": "https://github.com/alibaba/otter.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "florent37/MaterialViewPager",
+    "clone_url": "https://github.com/florent37/MaterialViewPager.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "guolindev/LitePal",
+    "clone_url": "https://github.com/guolindev/LitePal.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "davemorrissey/subsampling-scale-image-view",
+    "clone_url": "https://github.com/davemorrissey/subsampling-scale-image-view.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "apache/tomcat",
+    "clone_url": "https://github.com/apache/tomcat.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "Netflix/SimianArmy",
+    "clone_url": "https://github.com/Netflix/SimianArmy.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "junixapp/XPopup",
+    "clone_url": "https://github.com/junixapp/XPopup.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "JakeWharton/hugo",
+    "clone_url": "https://github.com/JakeWharton/hugo.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "software-mansion/react-native-svg",
+    "clone_url": "https://github.com/software-mansion/react-native-svg.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "dropwizard/metrics",
+    "clone_url": "https://github.com/dropwizard/metrics.git",
+    "language": "Java"
+  },
+  {
+    "full_name": "tensorflow/tensorflow",
+    "clone_url": "https://github.com/tensorflow/tensorflow.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/react-native",
+    "clone_url": "https://github.com/facebook/react-native.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "electron/electron",
+    "clone_url": "https://github.com/electron/electron.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "godotengine/godot",
+    "clone_url": "https://github.com/godotengine/godot.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/terminal",
+    "clone_url": "https://github.com/microsoft/terminal.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ggml-org/llama.cpp",
+    "clone_url": "https://github.com/ggml-org/llama.cpp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "bitcoin/bitcoin",
+    "clone_url": "https://github.com/bitcoin/bitcoin.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "opencv/opencv",
+    "clone_url": "https://github.com/opencv/opencv.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "nomic-ai/gpt4all",
+    "clone_url": "https://github.com/nomic-ai/gpt4all.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "tesseract-ocr/tesseract",
+    "clone_url": "https://github.com/tesseract-ocr/tesseract.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "protocolbuffers/protobuf",
+    "clone_url": "https://github.com/protocolbuffers/protobuf.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "swiftlang/swift",
+    "clone_url": "https://github.com/swiftlang/swift.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ocornut/imgui",
+    "clone_url": "https://github.com/ocornut/imgui.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "LadybirdBrowser/ladybird",
+    "clone_url": "https://github.com/LadybirdBrowser/ladybird.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "WerWolv/ImHex",
+    "clone_url": "https://github.com/WerWolv/ImHex.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "nlohmann/json",
+    "clone_url": "https://github.com/nlohmann/json.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "x64dbg/x64dbg",
+    "clone_url": "https://github.com/x64dbg/x64dbg.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ggml-org/whisper.cpp",
+    "clone_url": "https://github.com/ggml-org/whisper.cpp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "grpc/grpc",
+    "clone_url": "https://github.com/grpc/grpc.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ClickHouse/ClickHouse",
+    "clone_url": "https://github.com/ClickHouse/ClickHouse.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Light-City/CPlusPlusThings",
+    "clone_url": "https://github.com/Light-City/CPlusPlusThings.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "zhongyang219/TrafficMonitor",
+    "clone_url": "https://github.com/zhongyang219/TrafficMonitor.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "aria2/aria2",
+    "clone_url": "https://github.com/aria2/aria2.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/leveldb",
+    "clone_url": "https://github.com/google/leveldb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebookresearch/faiss",
+    "clone_url": "https://github.com/facebookresearch/faiss.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "zen-browser/desktop",
+    "clone_url": "https://github.com/zen-browser/desktop.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/googletest",
+    "clone_url": "https://github.com/google/googletest.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "huihut/interview",
+    "clone_url": "https://github.com/huihut/interview.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "BVLC/caffe",
+    "clone_url": "https://github.com/BVLC/caffe.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "aseprite/aseprite",
+    "clone_url": "https://github.com/aseprite/aseprite.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "duckdb/duckdb",
+    "clone_url": "https://github.com/duckdb/duckdb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "qbittorrent/qBittorrent",
+    "clone_url": "https://github.com/qbittorrent/qBittorrent.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "carbon-language/carbon-lang",
+    "clone_url": "https://github.com/carbon-language/carbon-lang.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "CMU-Perceptual-Computing-Lab/openpose",
+    "clone_url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "TheAlgorithms/C-Plus-Plus",
+    "clone_url": "https://github.com/TheAlgorithms/C-Plus-Plus.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "SerenityOS/serenity",
+    "clone_url": "https://github.com/SerenityOS/serenity.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google-ai-edge/mediapipe",
+    "clone_url": "https://github.com/google-ai-edge/mediapipe.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "hyprwm/Hyprland",
+    "clone_url": "https://github.com/hyprwm/Hyprland.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/rocksdb",
+    "clone_url": "https://github.com/facebook/rocksdb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "LizardByte/Sunshine",
+    "clone_url": "https://github.com/LizardByte/Sunshine.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/calculator",
+    "clone_url": "https://github.com/microsoft/calculator.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/WSL",
+    "clone_url": "https://github.com/microsoft/WSL.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/folly",
+    "clone_url": "https://github.com/facebook/folly.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ariya/phantomjs",
+    "clone_url": "https://github.com/ariya/phantomjs.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "dragonflydb/dragonfly",
+    "clone_url": "https://github.com/dragonflydb/dragonfly.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "telegramdesktop/tdesktop",
+    "clone_url": "https://github.com/telegramdesktop/tdesktop.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "flameshot-org/flameshot",
+    "clone_url": "https://github.com/flameshot-org/flameshot.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ValveSoftware/Proton",
+    "clone_url": "https://github.com/ValveSoftware/Proton.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ossrs/srs",
+    "clone_url": "https://github.com/ossrs/srs.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "aristocratos/btop",
+    "clone_url": "https://github.com/aristocratos/btop.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mongodb/mongo",
+    "clone_url": "https://github.com/mongodb/mongo.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "taichi-dev/taichi",
+    "clone_url": "https://github.com/taichi-dev/taichi.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "gabime/spdlog",
+    "clone_url": "https://github.com/gabime/spdlog.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "dmlc/xgboost",
+    "clone_url": "https://github.com/dmlc/xgboost.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "rethinkdb/rethinkdb",
+    "clone_url": "https://github.com/rethinkdb/rethinkdb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "envoyproxy/envoy",
+    "clone_url": "https://github.com/envoyproxy/envoy.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "emscripten-core/emscripten",
+    "clone_url": "https://github.com/emscripten-core/emscripten.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "shadps4-emu/shadPS4",
+    "clone_url": "https://github.com/shadps4-emu/shadPS4.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "FreeCAD/FreeCAD",
+    "clone_url": "https://github.com/FreeCAD/FreeCAD.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mozilla/DeepSpeech",
+    "clone_url": "https://github.com/mozilla/DeepSpeech.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cmderdev/cmder",
+    "clone_url": "https://github.com/cmderdev/cmder.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "barry-ran/QtScrcpy",
+    "clone_url": "https://github.com/barry-ran/QtScrcpy.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ApolloAuto/apollo",
+    "clone_url": "https://github.com/ApolloAuto/apollo.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "notepad-plus-plus/notepad-plus-plus",
+    "clone_url": "https://github.com/notepad-plus-plus/notepad-plus-plus.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "argotorg/solidity",
+    "clone_url": "https://github.com/argotorg/solidity.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "changkun/modern-cpp-tutorial",
+    "clone_url": "https://github.com/changkun/modern-cpp-tutorial.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/winget-cli",
+    "clone_url": "https://github.com/microsoft/winget-cli.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/flatbuffers",
+    "clone_url": "https://github.com/google/flatbuffers.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "typesense/typesense",
+    "clone_url": "https://github.com/typesense/typesense.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "keepassxreboot/keepassxc",
+    "clone_url": "https://github.com/keepassxreboot/keepassxc.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "v8/v8",
+    "clone_url": "https://github.com/v8/v8.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "PaddlePaddle/Paddle",
+    "clone_url": "https://github.com/PaddlePaddle/Paddle.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mozilla-ai/llamafile",
+    "clone_url": "https://github.com/mozilla-ai/llamafile.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "redis/RedisDesktopManager",
+    "clone_url": "https://github.com/redis/RedisDesktopManager.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "sqlitebrowser/sqlitebrowser",
+    "clone_url": "https://github.com/sqlitebrowser/sqlitebrowser.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "osquery/osquery",
+    "clone_url": "https://github.com/osquery/osquery.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "fmtlib/fmt",
+    "clone_url": "https://github.com/fmtlib/fmt.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ssloy/tinyrenderer",
+    "clone_url": "https://github.com/ssloy/tinyrenderer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "simdjson/simdjson",
+    "clone_url": "https://github.com/simdjson/simdjson.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ml-explore/mlx",
+    "clone_url": "https://github.com/ml-explore/mlx.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Tencent/ncnn",
+    "clone_url": "https://github.com/Tencent/ncnn.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "chromium/chromium",
+    "clone_url": "https://github.com/chromium/chromium.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "electronicarts/CnC_Remastered_Collection",
+    "clone_url": "https://github.com/electronicarts/CnC_Remastered_Collection.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "deskflow/deskflow",
+    "clone_url": "https://github.com/deskflow/deskflow.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "scottbez1/smartknob",
+    "clone_url": "https://github.com/scottbez1/smartknob.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "78/xiaozhi-esp32",
+    "clone_url": "https://github.com/78/xiaozhi-esp32.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "pqrs-org/Karabiner-Elements",
+    "clone_url": "https://github.com/pqrs-org/Karabiner-Elements.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apache/mxnet",
+    "clone_url": "https://github.com/apache/mxnet.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "xbmc/xbmc",
+    "clone_url": "https://github.com/xbmc/xbmc.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "catchorg/Catch2",
+    "clone_url": "https://github.com/catchorg/Catch2.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "trojan-gfw/trojan",
+    "clone_url": "https://github.com/trojan-gfw/trojan.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "lettier/3d-game-shaders-for-beginners",
+    "clone_url": "https://github.com/lettier/3d-game-shaders-for-beginners.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/filament",
+    "clone_url": "https://github.com/google/filament.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "qinguoyi/TinyWebServer",
+    "clone_url": "https://github.com/qinguoyi/TinyWebServer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cocos2d/cocos2d-x",
+    "clone_url": "https://github.com/cocos2d/cocos2d-x.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "swoole/swoole-src",
+    "clone_url": "https://github.com/swoole/swoole-src.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "alibaba/weex",
+    "clone_url": "https://github.com/alibaba/weex.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/hhvm",
+    "clone_url": "https://github.com/facebook/hhvm.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "uNetworking/uWebSockets",
+    "clone_url": "https://github.com/uNetworking/uWebSockets.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "MaaAssistantArknights/MaaAssistantArknights",
+    "clone_url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/yoga",
+    "clone_url": "https://github.com/facebook/yoga.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Tencent/MMKV",
+    "clone_url": "https://github.com/Tencent/MMKV.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/onnxruntime",
+    "clone_url": "https://github.com/microsoft/onnxruntime.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "TranslucentTB/TranslucentTB",
+    "clone_url": "https://github.com/TranslucentTB/TranslucentTB.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "kyleneideck/BackgroundMusic",
+    "clone_url": "https://github.com/kyleneideck/BackgroundMusic.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "haoel/leetcode",
+    "clone_url": "https://github.com/haoel/leetcode.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "rizinorg/cutter",
+    "clone_url": "https://github.com/rizinorg/cutter.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/LightGBM",
+    "clone_url": "https://github.com/microsoft/LightGBM.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/AirSim",
+    "clone_url": "https://github.com/microsoft/AirSim.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "RPCS3/rpcs3",
+    "clone_url": "https://github.com/RPCS3/rpcs3.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/CNTK",
+    "clone_url": "https://github.com/microsoft/CNTK.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/libphonenumber",
+    "clone_url": "https://github.com/google/libphonenumber.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Tencent/mars",
+    "clone_url": "https://github.com/Tencent/mars.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "pybind/pybind11",
+    "clone_url": "https://github.com/pybind/pybind11.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apache/brpc",
+    "clone_url": "https://github.com/apache/brpc.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "id-Software/DOOM",
+    "clone_url": "https://github.com/id-Software/DOOM.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Atmosphere-NX/Atmosphere",
+    "clone_url": "https://github.com/Atmosphere-NX/Atmosphere.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "MarlinFirmware/Marlin",
+    "clone_url": "https://github.com/MarlinFirmware/Marlin.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/react-native-windows",
+    "clone_url": "https://github.com/microsoft/react-native-windows.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Qv2ray/Qv2ray",
+    "clone_url": "https://github.com/Qv2ray/Qv2ray.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "wled/WLED",
+    "clone_url": "https://github.com/wled/WLED.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "upx/upx",
+    "clone_url": "https://github.com/upx/upx.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "blender/blender",
+    "clone_url": "https://github.com/blender/blender.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "abseil/abseil-cpp",
+    "clone_url": "https://github.com/abseil/abseil-cpp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "esp8266/Arduino",
+    "clone_url": "https://github.com/esp8266/Arduino.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "CoatiSoftware/Sourcetrail",
+    "clone_url": "https://github.com/CoatiSoftware/Sourcetrail.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "bkaradzic/bgfx",
+    "clone_url": "https://github.com/bkaradzic/bgfx.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apache/arrow",
+    "clone_url": "https://github.com/apache/arrow.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "zerotier/ZeroTierOne",
+    "clone_url": "https://github.com/zerotier/ZeroTierOne.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ZLMediaKit/ZLMediaKit",
+    "clone_url": "https://github.com/ZLMediaKit/ZLMediaKit.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "USTC-Resource/USTC-Course",
+    "clone_url": "https://github.com/USTC-Resource/USTC-Course.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "rui314/mold",
+    "clone_url": "https://github.com/rui314/mold.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apple/foundationdb",
+    "clone_url": "https://github.com/apple/foundationdb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "audacity/audacity",
+    "clone_url": "https://github.com/audacity/audacity.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "doitsujin/dxvk",
+    "clone_url": "https://github.com/doitsujin/dxvk.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "chenshuo/muduo",
+    "clone_url": "https://github.com/chenshuo/muduo.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ceph/ceph",
+    "clone_url": "https://github.com/ceph/ceph.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "espressif/arduino-esp32",
+    "clone_url": "https://github.com/espressif/arduino-esp32.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "AaronFeng753/Waifu2x-Extension-GUI",
+    "clone_url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "yhirose/cpp-httplib",
+    "clone_url": "https://github.com/yhirose/cpp-httplib.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "NixOS/nix",
+    "clone_url": "https://github.com/NixOS/nix.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "k4yt3x/video2x",
+    "clone_url": "https://github.com/k4yt3x/video2x.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "tindy2013/subconverter",
+    "clone_url": "https://github.com/tindy2013/subconverter.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "dogecoin/dogecoin",
+    "clone_url": "https://github.com/dogecoin/dogecoin.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "scylladb/scylladb",
+    "clone_url": "https://github.com/scylladb/scylladb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "polybar/polybar",
+    "clone_url": "https://github.com/polybar/polybar.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "MatsuriDayo/nekoray",
+    "clone_url": "https://github.com/MatsuriDayo/nekoray.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "moonlight-stream/moonlight-qt",
+    "clone_url": "https://github.com/moonlight-stream/moonlight-qt.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "hoffstadt/DearPyGui",
+    "clone_url": "https://github.com/hoffstadt/DearPyGui.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Tencent/rapidjson",
+    "clone_url": "https://github.com/Tencent/rapidjson.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "OpenRCT2/OpenRCT2",
+    "clone_url": "https://github.com/OpenRCT2/OpenRCT2.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "wkhtmltopdf/wkhtmltopdf",
+    "clone_url": "https://github.com/wkhtmltopdf/wkhtmltopdf.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "dolphin-emu/dolphin",
+    "clone_url": "https://github.com/dolphin-emu/dolphin.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "davisking/dlib",
+    "clone_url": "https://github.com/davisking/dlib.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "sogou/workflow",
+    "clone_url": "https://github.com/sogou/workflow.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "official-stockfish/Stockfish",
+    "clone_url": "https://github.com/official-stockfish/Stockfish.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "spotify/annoy",
+    "clone_url": "https://github.com/spotify/annoy.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ArduPilot/ardupilot",
+    "clone_url": "https://github.com/ArduPilot/ardupilot.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "arangodb/arangodb",
+    "clone_url": "https://github.com/arangodb/arangodb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "bulletphysics/bullet3",
+    "clone_url": "https://github.com/bulletphysics/bullet3.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "musescore/MuseScore",
+    "clone_url": "https://github.com/musescore/MuseScore.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "PCSX2/pcsx2",
+    "clone_url": "https://github.com/PCSX2/pcsx2.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "OpenGenus/cosmos",
+    "clone_url": "https://github.com/OpenGenus/cosmos.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apache/incubator-weex",
+    "clone_url": "https://github.com/apache/incubator-weex.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "xournalpp/xournalpp",
+    "clone_url": "https://github.com/xournalpp/xournalpp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "transmission/transmission",
+    "clone_url": "https://github.com/transmission/transmission.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "webview/webview",
+    "clone_url": "https://github.com/webview/webview.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "alibaba/MNN",
+    "clone_url": "https://github.com/alibaba/MNN.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "lynx-family/lynx",
+    "clone_url": "https://github.com/lynx-family/lynx.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ggml-org/ggml",
+    "clone_url": "https://github.com/ggml-org/ggml.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/watchman",
+    "clone_url": "https://github.com/facebook/watchman.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mobile-shell/mosh",
+    "clone_url": "https://github.com/mobile-shell/mosh.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "carla-simulator/carla",
+    "clone_url": "https://github.com/carla-simulator/carla.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "drogonframework/drogon",
+    "clone_url": "https://github.com/drogonframework/drogon.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "wolfpld/tracy",
+    "clone_url": "https://github.com/wolfpld/tracy.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/guetzli",
+    "clone_url": "https://github.com/google/guetzli.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "hrydgard/ppsspp",
+    "clone_url": "https://github.com/hrydgard/ppsspp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "isl-org/Open3D",
+    "clone_url": "https://github.com/isl-org/Open3D.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mltframework/shotcut",
+    "clone_url": "https://github.com/mltframework/shotcut.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "qgis/QGIS",
+    "clone_url": "https://github.com/qgis/QGIS.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ShiqiYu/libfacedetection",
+    "clone_url": "https://github.com/ShiqiYu/libfacedetection.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "vnotex/vnote",
+    "clone_url": "https://github.com/vnotex/vnote.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "TheCherno/Hazel",
+    "clone_url": "https://github.com/TheCherno/Hazel.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/or-tools",
+    "clone_url": "https://github.com/google/or-tools.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "capnproto/capnproto",
+    "clone_url": "https://github.com/capnproto/capnproto.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "dail8859/NotepadNext",
+    "clone_url": "https://github.com/dail8859/NotepadNext.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "acaudwell/Gource",
+    "clone_url": "https://github.com/acaudwell/Gource.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "game1024/OpenSpeedy",
+    "clone_url": "https://github.com/game1024/OpenSpeedy.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "assimp/assimp",
+    "clone_url": "https://github.com/assimp/assimp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ninja-build/ninja",
+    "clone_url": "https://github.com/ninja-build/ninja.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "zealdocs/zeal",
+    "clone_url": "https://github.com/zealdocs/zeal.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "NVIDIA/TensorRT",
+    "clone_url": "https://github.com/NVIDIA/TensorRT.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "M2Team/NanaZip",
+    "clone_url": "https://github.com/M2Team/NanaZip.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Alinshans/MyTinySTL",
+    "clone_url": "https://github.com/Alinshans/MyTinySTL.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "DayBreak-u/chineseocr_lite",
+    "clone_url": "https://github.com/DayBreak-u/chineseocr_lite.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Snapchat/KeyDB",
+    "clone_url": "https://github.com/Snapchat/KeyDB.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "organicmaps/organicmaps",
+    "clone_url": "https://github.com/organicmaps/organicmaps.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mapeditor/tiled",
+    "clone_url": "https://github.com/mapeditor/tiled.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "luanti-org/luanti",
+    "clone_url": "https://github.com/luanti-org/luanti.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "JoeyDeVries/LearnOpenGL",
+    "clone_url": "https://github.com/JoeyDeVries/LearnOpenGL.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "NVIDIA/TensorRT-LLM",
+    "clone_url": "https://github.com/NVIDIA/TensorRT-LLM.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "deepseek-ai/FlashMLA",
+    "clone_url": "https://github.com/deepseek-ai/FlashMLA.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mysql/mysql-server",
+    "clone_url": "https://github.com/mysql/mysql-server.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "skypjack/entt",
+    "clone_url": "https://github.com/skypjack/entt.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "vesoft-inc/nebula",
+    "clone_url": "https://github.com/vesoft-inc/nebula.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "CleverRaven/Cataclysm-DDA",
+    "clone_url": "https://github.com/CleverRaven/Cataclysm-DDA.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cameron314/concurrentqueue",
+    "clone_url": "https://github.com/cameron314/concurrentqueue.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Z3Prover/z3",
+    "clone_url": "https://github.com/Z3Prover/z3.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "sonic-pi-net/sonic-pi",
+    "clone_url": "https://github.com/sonic-pi-net/sonic-pi.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/sentencepiece",
+    "clone_url": "https://github.com/google/sentencepiece.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "SFML/SFML",
+    "clone_url": "https://github.com/SFML/SFML.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "manticoresoftware/manticoresearch",
+    "clone_url": "https://github.com/manticoresoftware/manticoresearch.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "taskflow/taskflow",
+    "clone_url": "https://github.com/taskflow/taskflow.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "AutoHotkey/AutoHotkey",
+    "clone_url": "https://github.com/AutoHotkey/AutoHotkey.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "snowie2000/mactype",
+    "clone_url": "https://github.com/snowie2000/mactype.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "SoftFever/OrcaSlicer",
+    "clone_url": "https://github.com/SoftFever/OrcaSlicer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/wslg",
+    "clone_url": "https://github.com/microsoft/wslg.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "openalpr/openalpr",
+    "clone_url": "https://github.com/openalpr/openalpr.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "EOSIO/eos",
+    "clone_url": "https://github.com/EOSIO/eos.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apple/turicreate",
+    "clone_url": "https://github.com/apple/turicreate.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "redpanda-data/redpanda",
+    "clone_url": "https://github.com/redpanda-data/redpanda.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google-deepmind/mujoco",
+    "clone_url": "https://github.com/google-deepmind/mujoco.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/STL",
+    "clone_url": "https://github.com/microsoft/STL.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "apache/thrift",
+    "clone_url": "https://github.com/apache/thrift.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "PointCloudLibrary/pcl",
+    "clone_url": "https://github.com/PointCloudLibrary/pcl.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "hluk/CopyQ",
+    "clone_url": "https://github.com/hluk/CopyQ.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "filecxx/FileCentipede",
+    "clone_url": "https://github.com/filecxx/FileCentipede.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "zeromq/libzmq",
+    "clone_url": "https://github.com/zeromq/libzmq.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/hermes",
+    "clone_url": "https://github.com/facebook/hermes.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mawww/kakoune",
+    "clone_url": "https://github.com/mawww/kakoune.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "nasa/fprime",
+    "clone_url": "https://github.com/nasa/fprime.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "wuye9036/CppTemplateTutorial",
+    "clone_url": "https://github.com/wuye9036/CppTemplateTutorial.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "android/ndk-samples",
+    "clone_url": "https://github.com/android/ndk-samples.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "gcc-mirror/gcc",
+    "clone_url": "https://github.com/gcc-mirror/gcc.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "PX4/PX4-Autopilot",
+    "clone_url": "https://github.com/PX4/PX4-Autopilot.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "TrinityCore/TrinityCore",
+    "clone_url": "https://github.com/TrinityCore/TrinityCore.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "openframeworks/openFrameworks",
+    "clone_url": "https://github.com/openframeworks/openFrameworks.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "WasmEdge/WasmEdge",
+    "clone_url": "https://github.com/WasmEdge/WasmEdge.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/skia",
+    "clone_url": "https://github.com/google/skia.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "rr-debugger/rr",
+    "clone_url": "https://github.com/rr-debugger/rr.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "rhasspy/piper",
+    "clone_url": "https://github.com/rhasspy/piper.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "colmap/colmap",
+    "clone_url": "https://github.com/colmap/colmap.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "baldurk/renderdoc",
+    "clone_url": "https://github.com/baldurk/renderdoc.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "TarsCloud/Tars",
+    "clone_url": "https://github.com/TarsCloud/Tars.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "esphome/esphome",
+    "clone_url": "https://github.com/esphome/esphome.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "raulmur/ORB_SLAM2",
+    "clone_url": "https://github.com/raulmur/ORB_SLAM2.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "monero-project/monero",
+    "clone_url": "https://github.com/monero-project/monero.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "opencv/opencv_contrib",
+    "clone_url": "https://github.com/opencv/opencv_contrib.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Const-me/Whisper",
+    "clone_url": "https://github.com/Const-me/Whisper.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/benchmark",
+    "clone_url": "https://github.com/google/benchmark.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "bpftrace/bpftrace",
+    "clone_url": "https://github.com/bpftrace/bpftrace.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Alexays/Waybar",
+    "clone_url": "https://github.com/Alexays/Waybar.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "oceanbase/oceanbase",
+    "clone_url": "https://github.com/oceanbase/oceanbase.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cp-algorithms/cp-algorithms",
+    "clone_url": "https://github.com/cp-algorithms/cp-algorithms.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "mamedev/mame",
+    "clone_url": "https://github.com/mamedev/mame.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "gzc/CLRS",
+    "clone_url": "https://github.com/gzc/CLRS.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "perspective-dev/perspective",
+    "clone_url": "https://github.com/perspective-dev/perspective.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "s3fs-fuse/s3fs-fuse",
+    "clone_url": "https://github.com/s3fs-fuse/s3fs-fuse.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "google/re2",
+    "clone_url": "https://github.com/google/re2.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "deepseek-ai/3FS",
+    "clone_url": "https://github.com/deepseek-ai/3FS.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Oneflow-Inc/oneflow",
+    "clone_url": "https://github.com/Oneflow-Inc/oneflow.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ValveSoftware/source-sdk-2013",
+    "clone_url": "https://github.com/ValveSoftware/source-sdk-2013.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Studio3T/robomongo",
+    "clone_url": "https://github.com/Studio3T/robomongo.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "HIllya51/LunaTranslator",
+    "clone_url": "https://github.com/HIllya51/LunaTranslator.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "niedev/RTranslator",
+    "clone_url": "https://github.com/niedev/RTranslator.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "tstack/lnav",
+    "clone_url": "https://github.com/tstack/lnav.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "BYVoid/OpenCC",
+    "clone_url": "https://github.com/BYVoid/OpenCC.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "rapidsai/cudf",
+    "clone_url": "https://github.com/rapidsai/cudf.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "owasp-modsecurity/ModSecurity",
+    "clone_url": "https://github.com/owasp-modsecurity/ModSecurity.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "yangyangwithgnu/hardseed",
+    "clone_url": "https://github.com/yangyangwithgnu/hardseed.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "pocoproject/poco",
+    "clone_url": "https://github.com/pocoproject/poco.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "LMMS/lmms",
+    "clone_url": "https://github.com/LMMS/lmms.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/napajs",
+    "clone_url": "https://github.com/microsoft/napajs.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "AGWA/git-crypt",
+    "clone_url": "https://github.com/AGWA/git-crypt.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "stenzek/duckstation",
+    "clone_url": "https://github.com/stenzek/duckstation.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ange-yaghi/engine-sim",
+    "clone_url": "https://github.com/ange-yaghi/engine-sim.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "oguzhaninan/Stacer",
+    "clone_url": "https://github.com/oguzhaninan/Stacer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Stellarium/stellarium",
+    "clone_url": "https://github.com/Stellarium/stellarium.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "nodegui/nodegui",
+    "clone_url": "https://github.com/nodegui/nodegui.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "openvinotoolkit/openvino",
+    "clone_url": "https://github.com/openvinotoolkit/openvino.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cocos/cocos-engine",
+    "clone_url": "https://github.com/cocos/cocos-engine.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "diasurgical/DevilutionX",
+    "clone_url": "https://github.com/diasurgical/DevilutionX.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "anbox/anbox",
+    "clone_url": "https://github.com/anbox/anbox.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "electronicarts/EASTL",
+    "clone_url": "https://github.com/electronicarts/EASTL.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "xenia-project/xenia",
+    "clone_url": "https://github.com/xenia-project/xenia.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ValveSoftware/GameNetworkingSockets",
+    "clone_url": "https://github.com/ValveSoftware/GameNetworkingSockets.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ArthurSonzogni/FTXUI",
+    "clone_url": "https://github.com/ArthurSonzogni/FTXUI.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ConEmu/ConEmu",
+    "clone_url": "https://github.com/ConEmu/ConEmu.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "scylladb/seastar",
+    "clone_url": "https://github.com/scylladb/seastar.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "diasurgical/devilution",
+    "clone_url": "https://github.com/diasurgical/devilution.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ggerganov/kbd-audio",
+    "clone_url": "https://github.com/ggerganov/kbd-audio.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "KDE/krita",
+    "clone_url": "https://github.com/KDE/krita.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "gperftools/gperftools",
+    "clone_url": "https://github.com/gperftools/gperftools.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "uNetworking/uWebSockets.js",
+    "clone_url": "https://github.com/uNetworking/uWebSockets.js.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "justcallmekoko/ESP32Marauder",
+    "clone_url": "https://github.com/justcallmekoko/ESP32Marauder.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "olive-editor/olive",
+    "clone_url": "https://github.com/olive-editor/olive.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "amnezia-vpn/amnezia-client",
+    "clone_url": "https://github.com/amnezia-vpn/amnezia-client.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "canonical/multipass",
+    "clone_url": "https://github.com/canonical/multipass.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "open-source-parsers/jsoncpp",
+    "clone_url": "https://github.com/open-source-parsers/jsoncpp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "o3de/o3de",
+    "clone_url": "https://github.com/o3de/o3de.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "NVIDIA/cutlass",
+    "clone_url": "https://github.com/NVIDIA/cutlass.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "jrouwe/JoltPhysics",
+    "clone_url": "https://github.com/jrouwe/JoltPhysics.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "k2-fsa/sherpa-onnx",
+    "clone_url": "https://github.com/k2-fsa/sherpa-onnx.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "catboost/catboost",
+    "clone_url": "https://github.com/catboost/catboost.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Tencent/libco",
+    "clone_url": "https://github.com/Tencent/libco.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "async-profiler/async-profiler",
+    "clone_url": "https://github.com/async-profiler/async-profiler.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "VowpalWabbit/vowpal_wabbit",
+    "clone_url": "https://github.com/VowpalWabbit/vowpal_wabbit.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cemu-project/Cemu",
+    "clone_url": "https://github.com/cemu-project/Cemu.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "prusa3d/PrusaSlicer",
+    "clone_url": "https://github.com/prusa3d/PrusaSlicer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "dusty-nv/jetson-inference",
+    "clone_url": "https://github.com/dusty-nv/jetson-inference.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "progschj/ThreadPool",
+    "clone_url": "https://github.com/progschj/ThreadPool.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "applenob/Cpp_Primer_Practice",
+    "clone_url": "https://github.com/applenob/Cpp_Primer_Practice.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "sass/node-sass",
+    "clone_url": "https://github.com/sass/node-sass.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "ideawu/ssdb",
+    "clone_url": "https://github.com/ideawu/ssdb.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Ewenwan/MVision",
+    "clone_url": "https://github.com/Ewenwan/MVision.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Tencent/Hippy",
+    "clone_url": "https://github.com/Tencent/Hippy.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "oatpp/oatpp",
+    "clone_url": "https://github.com/oatpp/oatpp.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Nevcairiel/LAVFilters",
+    "clone_url": "https://github.com/Nevcairiel/LAVFilters.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "avast/retdec",
+    "clone_url": "https://github.com/avast/retdec.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "SJTU-IPADS/PowerInfer",
+    "clone_url": "https://github.com/SJTU-IPADS/PowerInfer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "openscad/openscad",
+    "clone_url": "https://github.com/openscad/openscad.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "falcosecurity/falco",
+    "clone_url": "https://github.com/falcosecurity/falco.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "sebastianstarke/AI4Animation",
+    "clone_url": "https://github.com/sebastianstarke/AI4Animation.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "project-chip/connectedhomeip",
+    "clone_url": "https://github.com/project-chip/connectedhomeip.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "facebook/proxygen",
+    "clone_url": "https://github.com/facebook/proxygen.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "cxasm/notepad--",
+    "clone_url": "https://github.com/cxasm/notepad--.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "IntelRealSense/librealsense",
+    "clone_url": "https://github.com/IntelRealSense/librealsense.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "Mooophy/Cpp-Primer",
+    "clone_url": "https://github.com/Mooophy/Cpp-Primer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "microsoft/cpprestsdk",
+    "clone_url": "https://github.com/microsoft/cpprestsdk.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "lltcggie/waifu2x-caffe",
+    "clone_url": "https://github.com/lltcggie/waifu2x-caffe.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "tdlib/td",
+    "clone_url": "https://github.com/tdlib/td.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "linyacool/WebServer",
+    "clone_url": "https://github.com/linyacool/WebServer.git",
+    "language": "C++"
+  },
+  {
+    "full_name": "wangyu-/udp2raw",
+    "clone_url": "https://github.com/wangyu-/udp2raw.git",
+    "language": "C++"
+  }
+]
