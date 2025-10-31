@@ -54,6 +54,9 @@
 
 # Feature Engineering
 
+1. `feature_builder.py` builds complete feature sets from the JSON data (outputs a CSV record).
+2. `dataset_builder.py` creates the final dataset and saves it to `/data/processed/dataset.csv`
+
 # Model Design
 
 ## Target
