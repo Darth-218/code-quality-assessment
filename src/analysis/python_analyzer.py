@@ -1,4 +1,4 @@
-import subprocess, json, re, os
+import subprocess, json
 
 def analyze_python_code(file_path):
     data = {}
