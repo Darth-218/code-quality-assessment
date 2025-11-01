@@ -1,4 +1,3 @@
-# metrics_collector/cpp_analyzer.py
 import re
 from base_analyzer import BaseCodeAnalyzer
 
@@ -7,14 +6,12 @@ class CppAnalyzer(BaseCodeAnalyzer):
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
         
-        phase1 = self._collect_phase1_metrics(content, file_path)
-        phase2 = self._collect_phase2_metrics(content, file_path)
+        phase = self._collect_metrics(content, file_path)
         
-        return {**phase1, **phase2}
+        return phase
     
     def _collect_metrics(self, content: str, file_path: str):
         """Collect Phase 1 metrics for C++"""
-        # Remove comments for cleaner analysis
         clean_content = self._remove_comments(content)
         
         metrics = {

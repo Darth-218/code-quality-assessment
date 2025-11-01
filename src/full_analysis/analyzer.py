@@ -1,4 +1,3 @@
-# main.py
 import os
 import json
 from pathlib import Path
@@ -66,15 +65,12 @@ class ComprehensiveMetricsCollector:
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(metrics, f, indent=2, ensure_ascii=False)
 
-# Usage
 if __name__ == "__main__":
     collector = ComprehensiveMetricsCollector()
     
-    # Analyze a project
     project_path = "../../data/temp/"
     metrics = collector.analyze_project(project_path)
     
-    # Save results
     collector.save_metrics(metrics, "project_metrics.json")
     
     print(f"Analysis complete! Analyzed {len(metrics['files_analyzed'])} files")

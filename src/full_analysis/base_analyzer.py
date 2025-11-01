@@ -1,4 +1,3 @@
-# metrics_collector/base_analyzer.py
 import os
 import ast
 from abc import ABC, abstractmethod
@@ -14,9 +13,7 @@ class BaseCodeAnalyzer(ABC):
         pass
     
     def collect_metrics(self) -> Dict[str, Any]:
-        """Collect essential Phase 1 metrics"""
         return {
-            # Structure metrics
             'function_count': 0,
             'class_count': 0,
             'method_count': 0,
@@ -29,7 +26,6 @@ class BaseCodeAnalyzer(ABC):
             'cognitive_complexity_avg': 0.0,
             'afferent_coupling': 0,
             
-            # Derived metrics
             'functions_over_20_lines': 0,
             'functions_over_50_lines': 0,
             'halstead_volume': 0.0,
