@@ -32,3 +32,9 @@ class Downloader:
         print(" ".join(cmd))
         subprocess.run(cmd, check=False)
 
+
+if __name__ == "__main__":
+    dw = Downloader("../../data/metadata/metadata.json", "../../data/temp/")
+    repos = dw.load_repos()
+    for repo in repos:
+        dw.clone_repos(repo)

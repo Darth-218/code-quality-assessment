@@ -5,8 +5,8 @@ from pathlib import Path
 class FileExtractor:
 
     def __init__(self, repo_dir, output_dir) -> None:
-        self.repo_dir = repo_dir
-        self.output_dir = output_dir
+        self.repo_dir = Path(repo_dir)
+        self.output_dir = Path(output_dir)
         self.languages = {
             ".py": "python",
             ".java": "java",
@@ -45,3 +45,8 @@ class FileExtractor:
                         continue
         return copied
 
+if __name__ == "__main__":
+    fe = FileExtractor("../../data/temp/", "../../data/raw/")
+    repos = fe.get_repos()
+    for repo in repos:
+        fe.extract_files(repo)

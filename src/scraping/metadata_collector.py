@@ -58,7 +58,7 @@ class Scraper:
         }
 
 
-    def search_repositories(self, languages=[], topics=[], min_stars=None, pages=10):
+    def search_repositories(self, languages=[], topics=[], max_size=None, min_stars=0, pages=10):
 
         if self.rate_limit():
             return []
@@ -68,7 +68,7 @@ class Scraper:
 
         for lang in languages:
             for page in range(pages):
-                query = f"language: {lang} stars:>{min_stars}"
+                query = f"language: {lang} stars:>{min_stars} size:<{max_size}"
                 params = {
                     'q': query,
                     'sort': 'stars',
@@ -92,7 +92,7 @@ class Scraper:
 
 
     def save_list(self, repositories):
-        with open(f'../../data/metadata/metadata.json', 'w', encoding='utf-8') as f:
+        with open("../../data/metadata/metadata.json", 'w', encoding='utf-8') as f:
             json.dump(repositories, f, indent=2, ensure_ascii=True)
         
         print(f"Saved {len(repositories)} repositories to data/metadata/metadata.json")

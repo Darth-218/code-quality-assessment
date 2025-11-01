@@ -34,7 +34,7 @@ def analyze_file(file_path):
         data = cpp_analyzer.analyze_cpp_code(file_path)
 
     metrics = metrics_extractor.extract_metrics(data, language)
-    report_generator.save_report(f"{repo_name}_{file_name}", OUTPUT_DIR, metrics)
+    report_generator.save_report(f"{repo_name}_{file_name.split(".")[0]}.json", OUTPUT_DIR, metrics)
     print(f"Report saved at {repo_name}_{file_name}")
 
 
