@@ -2,7 +2,7 @@ import python_analyzer, java_analyzer, cpp_analyzer, metrics_extractor, smell_de
 import os
 from pathlib import Path
 
-INPUT_DIR = "../../data/temp/"
+INPUT_DIR = "../../data/raw/"
 OUTPUT_DIR = "../../data/processed/analysis_results/"
 
 
