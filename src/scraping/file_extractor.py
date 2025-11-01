@@ -22,7 +22,7 @@ class FileExtractor:
 
 
     def extract_files(self, repo_path: Path):
-        repo_name = repo_path.name
+        repo_name = str(repo_path).split("/")[-2]
         copied = 0
 
         for root, _, files in os.walk(repo_path):
