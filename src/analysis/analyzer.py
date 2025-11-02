@@ -2,8 +2,10 @@ import python_analyzer, java_analyzer, cpp_analyzer, metrics_extractor, smell_de
 import os
 from pathlib import Path
 
-INPUT_DIR = "../../data/raw/"
-OUTPUT_DIR = "../../data/processed/analysis_results/"
+# Get the project root directory (2 levels up from the current script)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+INPUT_DIR = str(PROJECT_ROOT / "data" / "temp")
+OUTPUT_DIR = str(PROJECT_ROOT / "data" / "processed" / "analysis_results")
 
 
 def analyze_files(base_dir: str):
@@ -17,19 +19,19 @@ def analyze_files(base_dir: str):
     return True
 
 def analyze_file(file_path):
-    print(file_path)
+    file_path = Path(file_path)
     language = data = ""
-    file_name = file_path.split("/")[-1]
-    repo_name = file_path.split("/")[-2]
-    if file_path.endswith(".py"):
+    file_name = file_path.name
+    repo_name = file_path.parent.name
+    if str(file_path).endswith(".py"):
         language = "Python"
         data = python_analyzer.analyze_python_code(file_path)
 
-    elif file_path.endswith(".java"):
+    elif str(file_path).endswith(".java"):
         language = "Java"
         data = java_analyzer.analyze_java_code(file_path)
 
-    elif file_path.endswith(".cpp"):
+    elif str(file_path).endswith(".cpp"):
         language = "C++"
         data = cpp_analyzer.analyze_cpp_code(file_path)
 
