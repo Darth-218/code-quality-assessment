@@ -1,10 +1,12 @@
 import os
 import json
 import pandas as pd
+from pathlib import Path
 
-
-ANALYSIS_DIR = "data/processed/analysis_result"
-OUTPUT_FILE = "data/processed/dataset.csv"
+# Get the project root directory (2 levels up from the current script)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+ANALYSIS_DIR = str(PROJECT_ROOT / "data" / "processed" / "analysis_results")
+OUTPUT_FILE = str(PROJECT_ROOT / "data" / "processed" / "dataset.csv")
 
 def load_json_files(directory):
     records = []

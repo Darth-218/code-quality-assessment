@@ -1,0 +1,7 @@
+error_count,warning_count,avg_complexity,max_complexity,maintainability_index,security_high,security_medium,security_low,loc,comments,blank_lines,comment_density
+0,0,0,0,75.0,0,0,0,83,14,0,0.0
+0,0,0,0,75.0,0,0,0,42,1,0,0.0
+0,0,0,0,75.0,0,0,0,11,2,0,0.0
+0,0,0,0,75.0,0,0,0,54,7,0,0.0
+0,0,0,0,75.0,0,0,0,47,1,0,0.0
+0,0,0,0,75.0,0,0,0,83,14,0,0.0

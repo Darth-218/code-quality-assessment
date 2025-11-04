@@ -22,7 +22,7 @@ class FileExtractor:
 
 
     def extract_files(self, repo_path: Path):
-        repo_name = str(repo_path).split("/")[-2]
+        repo_name = str(repo_path).split("/")[-1]
         copied = 0
 
         for root, _, files in os.walk(repo_path):
@@ -40,9 +40,10 @@ class FileExtractor:
 
                     try:
                         shutil.copy2(src_path, dest_file)
+                        print(f"Copied {src_path} to {dest_file}")
                         copied += 1
                     except Exception:
-                        continue
+                        print(f"Failed to copy {src_path} to {dest_file}")
         return copied
 
 if __name__ == "__main__":

@@ -86,7 +86,7 @@ class Scraper:
                     repo_data = self.extract_metadata(repo)
                     repositories.append(repo_data)
 
-                print(f"Page {page}: {len(items)}, total repos: {len(repositories)})")
+                print(f"Page {page}, total repos: {len(repositories)})")
 
         return repositories
 

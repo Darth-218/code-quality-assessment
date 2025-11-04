@@ -22,4 +22,5 @@ extractor = FileExtractor("../../data/temp/", "../../data/raw/")
 repos = extractor.get_repos()
 for repo in repos:
     extractor.extract_files(repo)
+    print(f"Extracted files from {repo}")
 
