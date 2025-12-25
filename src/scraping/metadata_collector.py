@@ -93,9 +93,15 @@ class Scraper:
 
 
     def save_list(self, repositories):
-        with open("../../data/metadata/metadata.json", 'w', encoding='utf-8') as f:
+        # Resolve path relative to this file, create directory if missing, then write
+        from pathlib import Path
+
+        metadata_path = Path(__file__).resolve().parents[2] / "data" / "metadata" / "metadata.json"
+        metadata_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with metadata_path.open('w', encoding='utf-8') as f:
             json.dump(repositories, f, indent=2, ensure_ascii=True)
-        
-        print(f"Saved {len(repositories)} repositories to data/metadata/metadata.json")
+
+        print(f"Saved {len(repositories)} repositories to {metadata_path}")
         return True
 
