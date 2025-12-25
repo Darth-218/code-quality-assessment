@@ -5,3 +5,4 @@ data/metadata/*
 data/processed/analysis_results/*
 **/__pycache__/*
 .ipynb_checkpoints/
+models/
