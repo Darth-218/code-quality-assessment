@@ -1,122 +1,186 @@
 """
-Module for detecting code smells (optional).
-This shows how the taxonomy metrics could be applied.
+Module for detecting code smells (rule-based weak supervision).
+Covers strong, proxy-based, and contextual smells based on available features.
 """
 
 from typing import List, Dict, Any
 
+SMELL_INDEX = {
+    "LongMethod": 0,
+    "LargeParameterList": 1,
+    "GodClass": 2,
+    "LazyClass": 3,
+    "SpaghettiCode": 4,
+    "PoorDocumentation": 5,
+    "MisleadingComments": 6,
+    "GlobalStateAbuse": 7,
+    "FeatureEnvy": 8,
+    "ShotgunSurgery": 9,
+    "UntestedCode": 10,
+    "FormattingIssues": 11,
+    "UnstableModule": 12,
+}
+
 class CodeSmellDetector:
-    """Detect code smells based on metrics thresholds."""
-    
-    # Thresholds based on research and best practices
-    THRESHOLDS = {
-        "cyclomatic_complexity": 15,
-        "method_length_loc": 50,
-        "class_length_loc": 500,
-        "method_parameters": 5,
-        "depth_of_inheritance": 6,
-        "lack_of_cohesion": 0.8,
-        "coupling_between_objects": 10
-    }
-    
-    def detect_smells(self, metrics: Dict[str, Any]) -> List[Dict[str, Any]]:
-        """
-        Detect code smells based on metrics.
-        
-        Args:
-            metrics: Dictionary of code metrics
-            
-        Returns:
-            List of detected code smells
-        """
-        smells = []
-        
-        # Check for various code smells
-        if "complexity" in metrics:
-            smells.extend(self._check_complexity_smells(metrics["complexity"]))
-        
-        if "size" in metrics:
-            smells.extend(self._check_size_smells(metrics["size"]))
-        
-        if "oo_metrics" in metrics:
-            smells.extend(self._check_oo_smells(metrics["oo_metrics"]))
-        
+    def __init__(self, smell_index: Dict[str, int] = SMELL_INDEX):
+        self.smell_index = smell_index
+        self.num_labels = len(smell_index)
+
+    # ---------- Binary encoder ----------
+    def smells_to_binary(self, smells: List[Dict[str, Any]]) -> List[int]:
+        y = [0] * self.num_labels
+        for s in smells:
+            smell_type = s.get("type")
+            if smell_type in self.smell_index:
+                y[self.smell_index[smell_type]] = 1
+        return y
+
+    # ---------- Smell detection ----------
+    def detect_smells_from_summary(self, s: Dict[str, Any]) -> List[Dict[str, Any]]:
+        smells: List[Dict[str, Any]] = []
+
+        loc = s.get("lines_of_code", 0)
+        has_functions = s.get("functions", 0) > 0
+        has_classes = s.get("classes", 0) > 0
+
+        # --- STRONG SMELLS ---
+
+        if has_functions and (
+            s.get("max_lines_per_function", 0) > 50 or
+            s.get("max_cyclomatic_ratio", 0) > 0.5 or
+            s.get("max_nesting_level", 0) > 4
+        ):
+            smells.append({
+                "type": "LongMethod",
+                "severity": "MAJOR"
+            })
+
+        if has_functions and (
+            s.get("large_parameter_list_indicator", False) or
+            s.get("mean_param_entropy", 0) > 2.0
+        ):
+            smells.append({
+                "type": "LargeParameterList",
+                "severity": "MINOR"
+            })
+
+        if has_classes and (
+            s.get("average_methods_per_class", 0) < 2 and
+            s.get("mean_lines_per_class", 0) < 50
+        ):
+            smells.append({
+                "type": "LazyClass",
+                "severity": "MINOR"
+            })
+
+        cross_calls = len(s.get("cross_file_call_edges", [])) \
+            if isinstance(s.get("cross_file_call_edges", []), list) else 0
+
+        if has_classes and (
+            s.get("inter_file_coupling", 0) > 20 or
+            cross_calls > 15 or
+            s.get("average_cyclomatic_complexity", 0) > 15
+        ):
+            smells.append({
+                "type": "GodClass",
+                "severity": "CRITICAL"
+            })
+
+        if has_functions and (
+            s.get("average_cyclomatic_complexity", 0) > 10 or
+            s.get("nesting_variance", 0) > 1.5
+        ):
+            smells.append({
+                "type": "SpaghettiCode",
+                "severity": "MAJOR"
+            })
+
+        # --- PROXY SMELLS ---
+
+        if loc > 20 and (
+            s.get("documentation_coverage", 100) < 20 or
+            s.get("comment_percentage", 100) < 5
+        ):
+            smells.append({
+                "type": "PoorDocumentation",
+                "severity": "MINOR"
+            })
+
+        if s.get("comment_code_mismatch_score", 0) > 0.7:
+            smells.append({
+                "type": "MisleadingComments",
+                "severity": "MINOR"
+            })
+
+        if (
+            s.get("globals_declared", 0) > 3 or
+            s.get("global_usages_total", 0) > 10
+        ):
+            smells.append({
+                "type": "GlobalStateAbuse",
+                "severity": "MAJOR"
+            })
+
+        if has_functions and (
+            s.get("external_vs_internal_field_access_ratio", 0) > 3 or
+            cross_calls > 10
+        ):
+            smells.append({
+                "type": "FeatureEnvy",
+                "severity": "MINOR"
+            })
+
+        if (
+            s.get("commit_bursts", 0) > 3 and
+            s.get("inter_file_coupling", 0) > 10
+        ):
+            smells.append({
+                "type": "ShotgunSurgery",
+                "severity": "MAJOR"
+            })
+
+        # --- CONTEXTUAL SMELLS ---
+
+        if (
+            s.get("pep8_violations", 0) > 5 or
+            s.get("indentation_irregularity", {}).get("irregularity_score", 0) > 1.0
+        ):
+            smells.append({
+                "type": "FormattingIssues",
+                "severity": "INFO"
+            })
+
+        if loc > 50 and not s.get("unit_test_presence", False):
+            smells.append({
+                "type": "UntestedCode",
+                "severity": "MAJOR"
+            })
+
+        if (
+            s.get("commit_bursts", 0) > 5 or
+            s.get("lines_added", 0) > 500
+        ):
+            smells.append({
+                "type": "UnstableModule",
+                "severity": "MINOR"
+            })
+
         return smells
-    
-    def _check_complexity_smells(self, complexity_metrics: Dict[str, float]) -> List[Dict[str, Any]]:
-        """Detect complexity-related smells."""
-        smells = []
-        
-        # Cyclomatic complexity check
-        if "cyclomatic" in complexity_metrics:
-            if complexity_metrics["cyclomatic"] > self.THRESHOLDS["cyclomatic_complexity"]:
-                smells.append({
-                    "type": "HighCyclomaticComplexity",
-                    "metric": "cyclomatic_complexity",
-                    "value": complexity_metrics["cyclomatic"],
-                    "threshold": self.THRESHOLDS["cyclomatic_complexity"],
-                    "description": "Method is too complex (high cyclomatic complexity)",
-                    "severity": "MAJOR"
-                })
-        
-        return smells
-    
-    def _check_size_smells(self, size_metrics: Dict[str, int]) -> List[Dict[str, Any]]:
-        """Detect size-related smells."""
-        smells = []
-        
-        # Long Method smell
-        if "method_loc" in size_metrics:
-            if size_metrics["method_loc"] > self.THRESHOLDS["method_length_loc"]:
-                smells.append({
-                    "type": "LongMethod",
-                    "metric": "method_length",
-                    "value": size_metrics["method_loc"],
-                    "threshold": self.THRESHOLDS["method_length_loc"],
-                    "description": "Method is too long",
-                    "severity": "MINOR"
-                })
-        
-        # Large Class smell
-        if "class_loc" in size_metrics:
-            if size_metrics["class_loc"] > self.THRESHOLDS["class_length_loc"]:
-                smells.append({
-                    "type": "LargeClass",
-                    "metric": "class_length",
-                    "value": size_metrics["class_loc"],
-                    "threshold": self.THRESHOLDS["class_length_loc"],
-                    "description": "Class is too large",
-                    "severity": "MINOR"
-                })
-        
-        return smells
-    
-    def _check_oo_smells(self, oo_metrics: Dict[str, float]) -> List[Dict[str, Any]]:
-        """Detect object-oriented smells."""
-        smells = []
-        
-        # Deep Inheritance Tree
-        if "dit" in oo_metrics:
-            if oo_metrics["dit"] > self.THRESHOLDS["depth_of_inheritance"]:
-                smells.append({
-                    "type": "DeepInheritanceTree",
-                    "metric": "depth_of_inheritance",
-                    "value": oo_metrics["dit"],
-                    "threshold": self.THRESHOLDS["depth_of_inheritance"],
-                    "description": "Inheritance hierarchy is too deep",
-                    "severity": "MAJOR"
-                })
-        
-        # High Coupling
-        if "cbo" in oo_metrics:
-            if oo_metrics["cbo"] > self.THRESHOLDS["coupling_between_objects"]:
-                smells.append({
-                    "type": "HighCoupling",
-                    "metric": "coupling_between_objects",
-                    "value": oo_metrics["cbo"],
-                    "threshold": self.THRESHOLDS["coupling_between_objects"],
-                    "description": "Class is too coupled to other classes",
-                    "severity": "MAJOR"
-                })
-        
-        return smells
+
+    # ---------- Batch processing ----------
+    def detect_smells_in_records(self, records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        results: List[Dict[str, Any]] = []
+
+        for r in records:
+            rec = dict(r)
+            try:
+                smells = self.detect_smells_from_summary(rec)
+                rec["smells"] = smells
+                rec["y_binary"] = self.smells_to_binary(smells)
+            except Exception:
+                rec["smells"] = []
+                rec["y_binary"] = [0] * self.num_labels
+
+            results.append(rec)
+
+        return results
