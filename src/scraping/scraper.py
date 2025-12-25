@@ -18,7 +18,7 @@ for repo in repos:
     downldr.clone_repos(repo)
     count += 1
 
-extractor = FileExtractor("data/temp/", "data/raw/")
+extractor = FileExtractor("data/temp/")
 repos = extractor.get_repos()
 for repo in repos:
     extractor.prune_repo(repo, execute=False, remove_empty_dirs=False)
