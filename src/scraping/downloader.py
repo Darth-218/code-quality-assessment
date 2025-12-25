@@ -22,7 +22,7 @@ class Downloader:
                     urls.append(v["clone_url"])
         return urls
 
-    def clone_repos(self, repo_url, depth=1):
+    def clone_repos(self, repo_url, depth=10):
         repo_name = repo_url.rstrip("/").split("/")[-1].replace(".git", "")
         target = Path(self.output_dir) / repo_name
         if target.exists():
@@ -34,7 +34,7 @@ class Downloader:
 
 
 if __name__ == "__main__":
-    dw = Downloader("../../data/metadata/metadata.json", "../../data/temp/")
+    dw = Downloader("data/metadata/metadata.json", "data/temp/")
     repos = dw.load_repos()
     for repo in repos:
         dw.clone_repos(repo)

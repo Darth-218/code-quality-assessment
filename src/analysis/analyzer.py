@@ -1,45 +1,77 @@
-import python_analyzer, java_analyzer, cpp_analyzer, metrics_extractor, smell_detector, report_generator
+import json
 import os
 from pathlib import Path
 
-# Get the project root directory (2 levels up from the current script)
-PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
-INPUT_DIR = str(PROJECT_ROOT / "data" / "temp")
-OUTPUT_DIR = str(PROJECT_ROOT / "data" / "processed" / "analysis_results")
+from python_analyzer import PythonCodeAnalyzer
+from smell_detector import CodeSmellDetector
 
 
-def analyze_files(base_dir: str):
-    files = []
-    for root, _, filenames in os.walk(base_dir):
-        for f in filenames:
-            if not f.endswith((".py", ".cpp", ".java")):
+def main():
+    # Determine data/temp relative to repository root
+    project_root = Path(__file__).resolve().parents[2]
+    data_dir = project_root / 'data' / 'temp'
+
+    if not data_dir.exists():
+        print(f"Data directory not found: {data_dir}")
+        return
+
+    results = []
+    total = 0
+    errors = 0
+
+    for root, _, files in os.walk(data_dir):
+        for fname in files:
+            if not fname.lower().endswith('.py'):
                 continue
-            analyze_file(os.path.join(root, f))
-            files.append(str(Path(root) / f))
-    return True
+            fp = Path(root) / fname
+            total += 1
+            try:
+                analyzer = PythonCodeAnalyzer(str(fp))
+                metrics = analyzer.analyze()
+                # use numerical_summary when available, otherwise full metrics
+                m = metrics.get('numerical_summary', metrics)
+                # remove file_info (do not output file paths)
+                if isinstance(m, dict) and 'file_info' in m:
+                    m = dict(m)  # shallow copy
+                    m.pop('file_info', None)
+                results.append(m)
+                print(f"Analyzed: {fp.name}")
+            except Exception as e:
+                errors += 1
+                print(f"Failed to analyze {fp.name}: {e}")
 
-def analyze_file(file_path):
-    file_path = Path(file_path)
-    language = data = ""
-    file_name = file_path.name
-    repo_name = file_path.parent.name
-    if str(file_path).endswith(".py"):
-        language = "Python"
-        data = python_analyzer.analyze_python_code(file_path)
+    # Prepare aggregated results
+    summary = {
+        'scanned_files': total,
+        'errors': errors,
+        'results': results
+    }
 
-    elif str(file_path).endswith(".java"):
-        language = "Java"
-        data = java_analyzer.analyze_java_code(file_path)
+    # Print summary to stdout for visibility
+    print(json.dumps(summary, indent=2))
 
-    elif str(file_path).endswith(".cpp"):
-        language = "C++"
-        data = cpp_analyzer.analyze_cpp_code(file_path)
+    # Save only the results list to data/raw/data.json (JSON array suitable for CSV conversion)
+    out_dir = project_root / 'data' / 'raw'
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / 'data.json'
+    try:
+        with open(out_path, 'w', encoding='utf-8') as fh:
+            json.dump(results, fh, indent=2, sort_keys=True)
+        print(f"Wrote results array to {out_path}")
+    except Exception as e:
+        print(f"Failed to write output file {out_path}: {e}")
 
-    metrics = metrics_extractor.extract_metrics(data, language)
-    report_generator.save_report(f"{repo_name}_{file_name.split(".")[0]}.json", OUTPUT_DIR, metrics)
-    print(f"Report saved at {repo_name}_{file_name}")
+    # Run smell detector over the results and save an annotated copy
+    try:
+        detector = CodeSmellDetector()
+        annotated = detector.detect_smells_in_records(results)
+        annotated_path = out_dir / 'data_with_labels.json'
+        with open(annotated_path, 'w', encoding='utf-8') as fh:
+            json.dump(annotated, fh, indent=2, sort_keys=True)
+        print(f"Wrote annotated results with labels to {annotated_path}")
+    except Exception as e:
+        print(f"Label detection failed: {e}")
 
 
 if __name__ == "__main__":
-    analyze_files(INPUT_DIR)
-    print("Finished Analysis")
+    main()

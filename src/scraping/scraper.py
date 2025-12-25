@@ -9,7 +9,7 @@ scraper = Scraper(TOKEN)
 repos = scraper.search_repositories(["python", "cpp", "java"], max_size=50000, min_stars=0, pages=100)
 scraper.save_list(repos)
 
-downldr = Downloader("../../data/metadata/metadata.json", "../../data/temp/")
+downldr = Downloader("data/metadata/metadata.json", "data/temp/")
 repos = downldr.load_repos()
 for repo in repos:
     max_count = 10
@@ -18,9 +18,9 @@ for repo in repos:
     downldr.clone_repos(repo)
     count += 1
 
-extractor = FileExtractor("../../data/temp/", "../../data/raw/")
+extractor = FileExtractor("data/temp/")
 repos = extractor.get_repos()
 for repo in repos:
-    extractor.extract_files(repo)
+    extractor.prune_repo(repo, execute=False, remove_empty_dirs=False)
     print(f"Extracted files from {repo}")
 

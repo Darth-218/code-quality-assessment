@@ -1,4 +1,5 @@
-import requests, datetime, time, json
+import requests, time, json
+from datetime import datetime
 
 class Scraper:
     def __init__(self, token) -> None:
@@ -58,7 +59,7 @@ class Scraper:
         }
 
 
-    def search_repositories(self, languages=[], topics=[], max_size=None, min_stars=0, pages=10):
+    def search_repositories(self, languages=[], topics=[], max_size=None, min_stars=100, pages=10):
 
         if self.rate_limit():
             return []
