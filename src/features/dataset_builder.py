@@ -6,7 +6,7 @@ from pathlib import Path
 # Get the project root directory (2 levels up from the current script)
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 ANALYSIS_DIR = str(PROJECT_ROOT / "data" / "raw" / "data_with_labels.json" )
-OUTPUT_FILE = str(PROJECT_ROOT / "data" / "processed" / "dataset.csv")
+OUTPUT_FILE = str(PROJECT_ROOT / "data" / "raw" / "dataset.csv")
 
 def load_json_files(directory):
     records = []

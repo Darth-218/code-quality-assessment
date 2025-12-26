@@ -4,6 +4,7 @@ Covers strong, proxy-based, and contextual smells based on available features.
 """
 
 from typing import List, Dict, Any
+from venv import logger
 
 SMELL_INDEX = {
     "LongMethod": 0,
@@ -170,16 +171,27 @@ class CodeSmellDetector:
     # ---------- Batch processing ----------
     def detect_smells_in_records(self, records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         results: List[Dict[str, Any]] = []
-
-        for r in records:
+        
+        for idx, r in enumerate(records):
             rec = dict(r)
             try:
                 smells = self.detect_smells_from_summary(rec)
                 rec["smells"] = smells
-                rec["y_binary"] = self.smells_to_binary(smells)
-            except Exception:
+                
+                # Get binary vector
+                binary_vector = self.smells_to_binary(smells)
+                
+                # UNPACK: Convert vector to individual label columns
+                # y_binary: [0, 1, 0] → y_LongMethod: 0, y_LargeParameterList: 1, y_GodClass: 0
+                for smell_name, label_idx in self.smell_index.items():
+                    rec[f"y_{smell_name}"] = int (binary_vector[label_idx])
+                    
+            except Exception as e:
+                logger.warning(f"Error processing record {idx}: {e}")
                 rec["smells"] = []
-                rec["y_binary"] = [0] * self.num_labels
+                # Error case: all labels set to 0
+                for smell_name in self.smell_index.keys():
+                    rec[f"y_{smell_name}"] = 0
 
             results.append(rec)
 

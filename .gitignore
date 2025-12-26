@@ -1,6 +1,4 @@
-data/raw/*
 data/temp/*
-data/processed/*
 data/metadata/*
 data/processed/analysis_results/*
 **/__pycache__/*
