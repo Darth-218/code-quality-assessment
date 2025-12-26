@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 import argparse
+import shutil
 
 class FileExtractor:
 
@@ -100,6 +101,42 @@ class FileExtractor:
             result["dirs_removed"] = dirs_removed
 
         return result
+    def extract_to_run_dir(self, repo_path: Path):
+        repo_name = repo_path.name
+        target_repo_dir = self.output_dir / repo_name
+        target_repo_dir.mkdir(parents=True, exist_ok=True)
+
+        kept_files = []
+        all_files = []
+
+        for root, _, files in os.walk(repo_path):
+            if ".git" in root:
+                continue
+
+            for file in files:
+                src_path = Path(root) / file
+                all_files.append(str(src_path))
+                if src_path.suffix.lower() not in self.languages:
+                    continue
+
+                relative_path = src_path.relative_to(repo_path)
+                dest_path = target_repo_dir / relative_path
+                dest_path.parent.mkdir(parents=True, exist_ok=True)
+
+                shutil.copy2(src_path, dest_path)
+                kept_files.append(str(dest_path))
+
+        files_marked_for_deletion = [f for f in all_files if f not in kept_files]
+
+        return {
+            "repo": repo_name,
+            "files_kept": len(kept_files),
+            "files_marked_for_deletion": len(files_marked_for_deletion),
+            "kept_examples": kept_files[:20],
+            "output_dir": str(target_repo_dir)
+        }
+
+    
 
 if __name__ == "__main__":
     fe = FileExtractor("data/temp/")

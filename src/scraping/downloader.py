@@ -21,6 +21,19 @@ class Downloader:
                 if isinstance(v, dict) and "clone_url" in v:
                     urls.append(v["clone_url"])
         return urls
+    
+    def clone_single_repo(self, repo_url, depth=10):
+        repo_name = repo_url.rstrip("/").split("/")[-1].replace(".git", "")
+        target = Path(self.output_dir) / repo_name
+
+        if target.exists():
+            print(f"{repo_name} already exists.")
+            return target
+
+        cmd = ["git", "clone", "--depth", str(depth), repo_url, str(target)]
+        subprocess.run(cmd, check=False)
+
+        return target
 
     def clone_repos(self, repo_url, depth=10):
         repo_name = repo_url.rstrip("/").split("/")[-1].replace(".git", "")
