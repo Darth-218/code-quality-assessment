@@ -6,7 +6,7 @@ from python_analyzer import PythonCodeAnalyzer
 from smell_detector import CodeSmellDetector
 
 
-def main():
+def analyzing():
     # Determine data/temp relative to repository root
     project_root = Path(__file__).resolve().parents[2]
     data_dir = project_root / 'data' / 'temp'
@@ -61,11 +61,14 @@ def main():
     except Exception as e:
         print(f"Failed to write output file {out_path}: {e}")
 
+    return results
+
+def labeling(data, output_dir=Path('data/raw')):
     # Run smell detector over the results and save an annotated copy
     try:
         detector = CodeSmellDetector()
-        annotated = detector.detect_smells_in_records(results)
-        annotated_path = out_dir / 'data_with_labels.json'
+        annotated = detector.detect_smells_in_records(data)
+        annotated_path = output_dir / 'data_with_labels.json'
         with open(annotated_path, 'w', encoding='utf-8') as fh:
             json.dump(annotated, fh, indent=2, sort_keys=True)
         print(f"Wrote annotated results with labels to {annotated_path}")
@@ -74,4 +77,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    with open("data/raw/data.json", 'r') as f:
+        results = json.load(f)
+    labeling(data=results)
