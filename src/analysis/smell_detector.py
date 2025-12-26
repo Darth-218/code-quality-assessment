@@ -184,7 +184,7 @@ class CodeSmellDetector:
                 # UNPACK: Convert vector to individual label columns
                 # y_binary: [0, 1, 0] → y_LongMethod: 0, y_LargeParameterList: 1, y_GodClass: 0
                 for smell_name, label_idx in self.smell_index.items():
-                    rec[f"y_{smell_name}"] = int (binary_vector[label_idx])
+                    rec[f"y_{smell_name}"] = int(binary_vector[label_idx])
                     
             except Exception as e:
                 logger.warning(f"Error processing record {idx}: {e}")
