@@ -23,5 +23,7 @@ df[numeric_cols.difference(target_cols)] = scaler.fit_transform(df[numeric_cols.
 df['y_any_smell'] = (df[target_cols].sum(axis=1) > 0).astype(int)
 df['file_path'] = df['file_path'].str.replace(r'.*\\temp\\', '', regex=True)
 
+df.drop(df[df["file_path"] == "__init__.py"].index, inplace=True)
+
 df.to_csv(output_file, index=False)
 print(f"Preprocessed data saved to {output_file}")
