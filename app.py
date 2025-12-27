@@ -38,7 +38,7 @@ if load_button or repo_url:
                 result = run_repository_pipeline(repo_url)
 
                 st.success("Repository processed successfully!")
-                st.write(f"Files kept: {result['files_kept']}")
+                st.write(f"Files kept: {result['files_kept']} {result['kept_file_list']}")
                 st.write(f"Files removed: {result['files_marked_for_deletion']}")
 
             except Exception as e:
@@ -57,5 +57,5 @@ if load_button or repo_url:
         if smell_predict:
             st.spinner("Predicting code smells...")
             prediction = model.predict(data)
-            st.write_stream(prediction)
+            st.write(prediction)
             st.success("Code smells predicted successfully!")
