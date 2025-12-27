@@ -2,8 +2,8 @@ import json
 import os
 from pathlib import Path
 
-from python_analyzer import PythonCodeAnalyzer
-from smell_detector import CodeSmellDetector
+from src.analysis.python_analyzer import PythonCodeAnalyzer
+from src.analysis.smell_detector import CodeSmellDetector
 
 
 def analyzing():
