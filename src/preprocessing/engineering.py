@@ -22,11 +22,6 @@ class FeatureEngineering:
             if col in df.columns:
                 df[col] = df[col].astype(int)
 
-        try:
-            df.drop(columns=['abbreviation_density', 'attribute_mutations_outside_init', 'maintainability_score', 'max_lines_per_class', 'mean_lines_per_class', 'vcs_available', 'y_ShotgunSurgery', 'smells', 'commit_bursts', 'lines_deleted', 'coupled_file_changes', 'god_class_proxies', 'indentation_irregularity', 'pep8_examples', 'vcs_top_coupled', 'cross_file_call_edges'], inplace=True)
-        except KeyError:
-            df.drop(columns=['abbreviation_density', 'attribute_mutations_outside_init', 'maintainability_score', 'max_lines_per_class', 'mean_lines_per_class', 'vcs_available', 'commit_bursts', 'lines_deleted', 'coupled_file_changes', 'god_class_proxies', 'indentation_irregularity', 'pep8_examples', 'vcs_top_coupled', 'cross_file_call_edges'], inplace=True)
-
         numeric_cols = df.select_dtypes(include=[np.number]).columns
         target_cols = [c for c in df.columns if c.startswith('y_')]
 
@@ -37,6 +32,11 @@ class FeatureEngineering:
         df['file_path'] = df['file_path'].str.replace(r'.*\\temp\\', '', regex=True)
 
         df.drop(df[df["file_path"] == "__init__.py"].index, inplace=True)
+
+        try:
+            df.drop(columns=['abbreviation_density', 'attribute_mutations_outside_init', 'maintainability_score', 'max_lines_per_class', 'mean_lines_per_class', 'vcs_available', 'y_ShotgunSurgery', 'smells', 'commit_bursts', 'lines_deleted', 'coupled_file_changes', 'god_class_proxies', 'indentation_irregularity', 'pep8_examples', 'vcs_top_coupled', 'cross_file_call_edges'], inplace=True)
+        except KeyError:
+            df.drop(columns=['file_path', 'y_any_smell', 'abbreviation_density', 'attribute_mutations_outside_init', 'maintainability_score', 'max_lines_per_class', 'mean_lines_per_class', 'vcs_available', 'commit_bursts', 'lines_deleted', 'coupled_file_changes', 'god_class_proxies', 'indentation_irregularity', 'pep8_examples', 'vcs_top_coupled', 'cross_file_call_edges'], inplace=True)
 
         df.to_csv(self.output_file, index=False)
         print(f"Preprocessed data saved to {self.output_file}")
