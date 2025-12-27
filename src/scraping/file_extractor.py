@@ -132,7 +132,7 @@ class FileExtractor:
             "repo": repo_name,
             "files_kept": len(kept_files),
             "files_marked_for_deletion": len(files_marked_for_deletion),
-            "kept_files": kept_files,
+            "kept_examples": kept_files[:20],
             "output_dir": str(target_repo_dir)
         }
 

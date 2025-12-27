@@ -5,4 +5,3 @@ data/processed/analysis_results/*
 .ipynb_checkpoints/
 .venv/
 run/*
-models/
