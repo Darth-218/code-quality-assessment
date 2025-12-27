@@ -6,7 +6,7 @@ from src.preprocessing.engineering import FeatureEngineering
 from src.scraping.single_repo_pipeline import run_repository_pipeline, clear_run_directory
 from src.analysis.analyzer import Analyzer
 
-model = pickle.load(open("models/random_forest.pkl", "rb"))
+model = pickle.load(open("models/voting_classifier.pkl", "rb"))
 
 repo_url = st.text_input(
     "GitHub Repository",
