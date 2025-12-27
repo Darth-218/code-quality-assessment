@@ -1,11 +1,12 @@
 from pathlib import Path
 import streamlit as st
 import pickle
+import pandas as pd
 from src.preprocessing.engineering import FeatureEngineering
 from src.scraping.single_repo_pipeline import run_repository_pipeline, clear_run_directory
 from src.analysis.analyzer import Analyzer
 
-model = pickle.load(open("models/histogram_gb.pkl", "rb"))
+model = pickle.load(open("models/random_forest.pkl", "rb"))
 
 repo_url = st.text_input(
     "GitHub Repository",
@@ -38,7 +39,8 @@ if load_button or repo_url:
                 result = run_repository_pipeline(repo_url)
 
                 st.success("Repository processed successfully!")
-                st.write(f"Files kept: {result['files_kept']} {result['kept_file_list']}")
+                st.write(f"Files kept: {result['files_kept']}")
+                st.code("\n".join(result['kept_files']))
                 st.write(f"Files removed: {result['files_marked_for_deletion']}")
 
             except Exception as e:
@@ -57,5 +59,20 @@ if load_button or repo_url:
         if smell_predict:
             st.spinner("Predicting code smells...")
             prediction = model.predict(data)
+            prediction = pd.DataFrame(prediction, columns =[
+    "LongMethod",
+    "LargeParameterList",
+    "GodClass",
+    "LazyClass",
+    "SpaghettiCode",
+    "PoorDocumentation",
+    "MisleadingComments",
+    "GlobalStateAbuse",
+    "FeatureEnvy",
+    "UntestedCode",
+    "FormattingIssues",
+    "UnstableModule",
+    "Smell Detected"
+            ])
             st.write(prediction)
             st.success("Code smells predicted successfully!")
