@@ -1,10 +1,16 @@
+from pathlib import Path
 import streamlit as st
+import pickle
+from src.preprocessing.engineering import FeatureEngineering
 from src.scraping.single_repo_pipeline import run_repository_pipeline, clear_run_directory
+from src.analysis.analyzer import Analyzer
+
+model = pickle.load(open("models/histogram_gb.pkl", "rb"))
 
 repo_url = st.text_input(
     "GitHub Repository",
     key="repo_url",
-    placeholder="Enter the GitHub repository here"
+    placeholder="Enter the GitHub repository URL here"
 )
 
 col1, col2 = st.columns([1, 1])
@@ -23,7 +29,7 @@ if clear_button:
     else:
         st.warning(result["status"])
 
-if load_button:
+if load_button or repo_url:
     if not repo_url:
         st.error("Please enter a GitHub repository URL.")
     else:
@@ -34,8 +40,22 @@ if load_button:
                 st.success("Repository processed successfully!")
                 st.write(f"Files kept: {result['files_kept']}")
                 st.write(f"Files removed: {result['files_marked_for_deletion']}")
-                st.write("Kept file examples:")
-                st.code("\n".join(result["kept_examples"]))
 
             except Exception as e:
                 st.error(f"Error: {e}")
+
+        analyzer = Analyzer()
+        analyzer.analyzing(Path("run/"), Path("run/"))
+        st.success("Repository Analyzed successfully!")
+
+        engineer = FeatureEngineering(input_file=Path("run/data.json"), output_file=Path("run/data_processed.csv"))
+        data = engineer.engineer()
+        st.success("Repository Engineered successfully!")
+
+        smell_predict = st.button("Predict Smells")
+
+        if smell_predict:
+            st.spinner("Predicting code smells...")
+            prediction = model.predict(data)
+            st.write_stream(prediction)
+            st.success("Code smells predicted successfully!")
